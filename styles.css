@@ -29,6 +29,9 @@
   background-image: url("http://www.pharmaca.com/skin/frontend/rwd/enterprise/images/demo-logo.png");
 }
 
+/* hello from the other side */
+.newClass {} 
+
 /* ============================================ *
  * RMA List
  * ============================================ */
@@ -1072,22 +1075,22 @@ $mq-support: false;
 $mq-fixed-value: 1024;
 
 // Renders at fixed value
-@include bp (min-width, 300px) { 
+@include bp (min-width, 300px) {
     div { color:#000; }
 }
 
 // Doesn't render without MQ support
-@include bp (min-width, 1200px) { 
+@include bp (min-width, 1200px) {
     div { color:#FFF; }
 }
 
 // Doesn't render without MQ support
-@include bp (max-width, 300px) { 
+@include bp (max-width, 300px) {
     div { color:#444; }
 }
 
 // Renders at fixed value
-@include bp (max-width, 1200px) { 
+@include bp (max-width, 1200px) {
     div { color:#888; }
 }
 
@@ -1994,7 +1997,7 @@ body .promos > li {
 }
 
 /* -------------------------------------------- *
- * Main slider 
+ * Main slider
  */
 .slideshow-container .tablet,
 .slideshow-container .mobile {
@@ -2663,7 +2666,7 @@ ul {
   }
 }
 /* ============================================ *
- * Typography   
+ * Typography
  * ============================================ */
 h1, .h1 {
   color: #635546;
@@ -18864,7 +18867,7 @@ a.view-all {
 }
 
 /*
-* HOMEPAGE 
+* HOMEPAGE
 * (General styles apply globally, modifications are made further down for specific pages)
 */
 #lcg_mybuys-wrapper {
@@ -19791,22 +19794,22 @@ $mq-support: false;
 $mq-fixed-value: 1024;
 
 // Renders at fixed value
-@include bp (min-width, 300px) { 
+@include bp (min-width, 300px) {
     div { color:#000; }
 }
 
 // Doesn't render without MQ support
-@include bp (min-width, 1200px) { 
+@include bp (min-width, 1200px) {
     div { color:#FFF; }
 }
 
 // Doesn't render without MQ support
-@include bp (max-width, 300px) { 
+@include bp (max-width, 300px) {
     div { color:#444; }
 }
 
 // Renders at fixed value
-@include bp (max-width, 1200px) { 
+@include bp (max-width, 1200px) {
     div { color:#888; }
 }
 
@@ -20713,7 +20716,7 @@ body .promos > li {
 }
 
 /* -------------------------------------------- *
- * Main slider 
+ * Main slider
  */
 .slideshow-container .tablet,
 .slideshow-container .mobile {
