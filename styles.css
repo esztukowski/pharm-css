@@ -43,7 +43,7 @@
  * ============================================ */
 #rma_create_form .form-list li {
   border-bottom: 1px solid #cccccc;
-  font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica", Verdana, Arial, sans-serif;
   font-size: f-size-xs;
 }
 #rma_create_form .form-list li:last-child {
@@ -79,7 +79,7 @@
 }
 
 body.enterprise-rma-return-view .box-content {
-  font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica", Verdana, Arial, sans-serif;
   font-size: f-size-xs;
   margin-bottom: 20px;
 }
@@ -90,7 +90,7 @@ body.enterprise-rma-return-view .box-content {
 }
 
 #rma_comment .box-content label {
-  font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica", Verdana, Arial, sans-serif;
   font-size: f-size-xs;
   font-weight: 400;
 }
@@ -98,7 +98,7 @@ body.enterprise-rma-return-view .box-content {
   border-top: none;
 }
 #rma_comment .note-list {
-  font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica", Verdana, Arial, sans-serif;
   font-size: f-size-xs;
   font-weight: 400;
 }
@@ -396,7 +396,7 @@ body.customer-account .storecredit .data-table td.last {
   margin: 5px 0;
   padding: 3px 10px;
   color: #e6e6e6;
-  font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica", Verdana, Arial, sans-serif;
 }
 .reward-message.reward-checkout {
   margin-bottom: 10px;
@@ -792,7 +792,7 @@ body.customer-account .storecredit .data-table td.last {
 .split-button .list-container li span,
 .split-button .list-container li a {
   color: #3399cc;
-  font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica", Verdana, Arial, sans-serif;
   position: relative;
   font-size: 14px;
   cursor: pointer;
@@ -1108,13 +1108,13 @@ $mq-fixed-value: 1024;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Helvetica-Neue';
+  font-family: 'Helvetica';
   src: url("http://www.pharmaca.com/skin/frontend/pharmaca/default/scss/fonts/Helvetica_Neue_LT_Std/HelveticaNeueLTStd-Ex.otf");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Helvetica-Neue-light';
+  font-family: 'Helvetica';
   src: url("http://www.pharmaca.com/skin/frontend/pharmaca/default/scss/fonts/Helvetica_Neue_LT_Std/HelveticaNeueLTStd-LtEx.otf");
   font-weight: normal;
   font-style: normal;
@@ -1423,7 +1423,7 @@ body .promos > li {
   top: 10%;
   font-weight: 500;
   font-size: 20px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   text-shadow: 1px 1px 3px #555555;
 }
 
@@ -2634,7 +2634,7 @@ input,
 select,
 table,
 textarea {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   color: #8A7967;
   font-size: 12px;
   line-height: 1.5;
@@ -2667,7 +2667,7 @@ ul {
  * ============================================ */
 h1, .h1 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2676,14 +2676,14 @@ h1, .h1 {
   padding: 0;
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 25px;
   margin: 0 0 0.7em 0;
 }
 
 h2, .h2 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2699,7 +2699,7 @@ h2, .h2 {
 
 h3, .h3 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2708,7 +2708,7 @@ h3, .h3 {
   padding: 0;
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 22px;
   margin: 0 0 0.625em 0;
   text-rendering: optimizeSpeed;
@@ -2716,7 +2716,7 @@ h3, .h3 {
 
 h4, .h4 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2733,7 +2733,7 @@ h4, .h4 {
 
 h5, .h5 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2742,7 +2742,7 @@ h5, .h5 {
   padding: 0;
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   margin: 0 0 0.625em 0;
   text-rendering: optimizeSpeed;
@@ -2750,7 +2750,7 @@ h5, .h5 {
 
 h6, .h6 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2759,7 +2759,7 @@ h6, .h6 {
   padding: 0;
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 16px;
   margin: 0 0 0.313em 0;
   text-rendering: optimizeSpeed;
@@ -2845,7 +2845,7 @@ h6, .h6 {
  */
 .page-title h1,
 .page-title h2 {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
   color: #635546;
@@ -2858,7 +2858,7 @@ h6, .h6 {
 .product-name h1,
 .product-name .h1 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2893,7 +2893,7 @@ h6, .h6 {
 .block-title h2,
 .block-title h3 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2912,7 +2912,7 @@ h6, .h6 {
   font-weight: 600;
 }
 .block-title strong {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
   color: #635546;
@@ -2939,7 +2939,7 @@ h6, .h6 {
 .amshopby-filters-left h3,
 .amshopby-filters-left strong {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -2956,7 +2956,7 @@ h6, .h6 {
   margin: 0 0 0.625em 0;
   text-transform: uppercase;
   font-weight: normal;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 1px;
 }
@@ -3033,7 +3033,7 @@ body:not(.customer-account) .block:first-child .block-title {
   }
   .sidebar .block:not(.block-layered-nav) .block-title > strong {
     color: #635546;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     line-height: auto;
@@ -3077,7 +3077,7 @@ body:not(.customer-account) .block:first-child .block-title {
   }
   .sidebar .block:not(.block-layered-nav) .block-title.active > strong {
     color: #635546;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     line-height: auto;
@@ -3137,7 +3137,7 @@ body:not(.customer-account) .block:first-child .block-title {
 .block-account li,
 .block-cms-menu li {
   text-transform: uppercase;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   margin: 7px 0;
 }
 .block-account li strong,
@@ -3230,7 +3230,7 @@ form .buttons-set .button:focus {
   color: #ffffff;
   font-size: 13px;
   font-weight: normal;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   line-height: 19px;
   text-align: center;
   text-transform: uppercase;
@@ -3309,7 +3309,7 @@ a.button:hover {
   text-transform: uppercase;
   display: inline-block;
   color: #8A7967;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .button2 span:hover,
 .button2 span span:hover {
@@ -3547,7 +3547,7 @@ a.button:hover {
   line-height: 20px;
   width: 100%;
   font-size: 10px;
-  font-family: Arial, "Helvetica-Neue", Arial, sans-serif;
+  font-family: Arial, "Helvetica", Arial, sans-serif;
   font-weight: bold;
 }
 .btn-remove:hover:after {
@@ -3891,7 +3891,7 @@ a.button:hover {
   text-align: center;
   margin: 10px;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 /* -------------------------------------------- *
@@ -4105,7 +4105,7 @@ a.button:hover {
  */
 .price-box {
   margin: 7px 0;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 .price-box p {
@@ -4118,19 +4118,19 @@ a.button:hover {
 
 .price-box .price {
   color: #8A7967;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
 }
 
 .price-box .price,
 .price {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 .price-box .price-label {
   color: #cfc9c3;
   white-space: nowrap;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 .price-box .minimal-price-link {
@@ -4157,14 +4157,14 @@ a.button:hover {
 .price-box .old-price .price,
 .price-box .special-price .price {
   color: #e56066;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   display: inline-block;
 }
 
 .price-box .old-price .price {
   color: #8A7967;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   text-decoration: line-through;
 }
@@ -4222,7 +4222,7 @@ span.weee {
  * ============================================ */
 .item-options {
   font-size: 14px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .item-options:after {
   content: '';
@@ -4419,7 +4419,7 @@ span.weee {
  */
 .std p {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: normal;
@@ -4498,7 +4498,7 @@ span.weee {
 
 .toolbar,
 .pager {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   color: #8A7967;
   line-height: 30px;
   font-size: 12px;
@@ -4506,7 +4506,7 @@ span.weee {
 
 .toolbar label,
 .pager-no-toolbar label {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
 }
@@ -4591,7 +4591,7 @@ span.weee {
 }
 .pager .amount {
   float: left;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   white-space: nowrap;
   margin: 0 15px 0 0;
 }
@@ -4639,7 +4639,7 @@ span.weee {
   height: 30px;
   padding: 0;
   color: #8A7967;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   margin-left: 4px;
 }
 
@@ -5090,7 +5090,7 @@ ul#travel-modes li.walking label:focus {
 
 form .legend {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -5099,7 +5099,7 @@ form .legend {
   padding: 0;
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 22px;
   margin: 0 0 0.625em 0;
   text-rendering: optimizeSpeed;
@@ -5179,7 +5179,7 @@ span.required:after {
   content: ' *';
   color: #635546;
   font-weight: normal;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
 }
 
@@ -5354,7 +5354,7 @@ input[type=text].qty {
 @media only screen and (max-width: 768px) {
   dl.sp-methods dt, .opc .add-gift-message h3, .opc td h3 {
     text-transform: capitalize;
-    font: normal 12px "Helvetica-Neue", Arial, sans-serif;
+    font: normal 12px "Helvetica", Arial, sans-serif;
     color: #8A7967;
   }
 }
@@ -5499,7 +5499,7 @@ p.required,
 
 form .form-instructions {
   font-style: italic;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 13px;
   color: #8A7967;
 }
@@ -5527,7 +5527,7 @@ form .form-instructions {
 .data-table th {
   background: #d9d9d9;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   line-height: 1.4;
 }
@@ -5543,7 +5543,7 @@ form .form-instructions {
 
 .data-table tbody td,
 .data-table tfoot td {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 .data-table tfoot tr {
@@ -5653,7 +5653,7 @@ form .form-instructions {
   .linearize-table tbody td[data-rwd-label]:before {
     content: attr(data-rwd-label) ":";
     font-size: 12px;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     padding-right: 5px;
     text-transform: uppercase;
   }
@@ -5736,7 +5736,7 @@ form .form-instructions {
   .linearize-table-large tbody td[data-rwd-label]:before {
     content: attr(data-rwd-label) ":";
     font-size: 12px;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     padding-right: 5px;
     text-transform: uppercase;
   }
@@ -5973,7 +5973,7 @@ body {
 }
 .header-language-container,
 .page-header {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 /* ============================================ *
@@ -6137,7 +6137,7 @@ body {
 
 .welcome-msg {
   float: right;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 11px;
   margin-right: 30px;
   margin-top: 11px;
@@ -6655,7 +6655,7 @@ a.skip-link:hover span.count:hover {
   display: block;
   color: #ffffff;
   line-height: 30px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .nav-primary li {
   position: relative;
@@ -7312,7 +7312,7 @@ a.skip-link:hover span.count:hover {
 /* Subtotal */
 .cart-menu .subtotal {
   padding: 0 15px 15px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 24px;
   line-height: 1.2;
 }
@@ -7367,7 +7367,7 @@ a.skip-link:hover span.count:hover {
  */
 .footer,
 .footer button {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 .footer {
@@ -7391,7 +7391,7 @@ a.skip-link:hover span.count:hover {
 }
 .footer .block-title strong {
   border-bottom: 0;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-weight: normal;
 }
 .footer .block-title,
@@ -7528,7 +7528,7 @@ a.skip-link:hover span.count:hover {
   border: 0;
   color: #ffffff;
   float: left;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 14px;
   height: 38px;
   line-height: 27px;
@@ -7628,7 +7628,7 @@ a.skip-link:hover span.count:hover {
 }
 .footer-container #footer-top-block ul li a {
   color: #ffffff;
-  font-family: "HelveticaNeueBoldExtended", "HelveticaNeue-Bold-Extended", "Helvetica Neue Bold Extended", "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", "TeXGyreHerosBold", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: "HelveticaNeueBoldExtended", "HelveticaNeue-Bold-Extended", "Helvetica Bold Extended", "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Bold", "HelveticaNeue", "Helvetica", "TeXGyreHerosBold", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-size: 13px;
   font-weight: bold;
   text-transform: uppercase;
@@ -7732,12 +7732,12 @@ a.skip-link:hover span.count:hover {
   clear: both;
 }
 .footer-container #footer-middle-block .block-title strong {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   text-transform: uppercase;
 }
 .footer-container #footer-middle-block .block-title h4 {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   text-transform: uppercase;
   color: #635546;
@@ -7998,7 +7998,7 @@ h4.product-name,
 h5.product-name,
 p.product-name {
   font-size: 12px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-weight: normal;
   line-height: auto;
 }
@@ -8022,7 +8022,7 @@ p.product-name a:hover {
 .products-list .product-name {
   margin: 0;
   font-size: 12px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   text-transform: uppercase;
   line-height: 16px;
   height: 50px;
@@ -8679,7 +8679,7 @@ p.product-name a:hover {
 }
 .category-products ul.products-grid > li div.product-info div.actions a.button,
 .category-products ul.products-grid > li div.product-info div.actions button.btn-cart {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   padding: 8px 0;
   width: 90%;
@@ -8743,7 +8743,7 @@ p.product-name a:hover {
 }
 
 .cat_landing_title {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   height: 50px;
   margin: 8px 0 2px 0;
@@ -8804,7 +8804,7 @@ p.product-name a:hover {
 .subcategories ul li a div span {
   background: url("http://www.pharmaca.com/skin/frontend/pharmaca/default/images/icon_clp_brands_title.jpg") no-repeat right 0 #ffffff;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 1px;
   line-height: 16px;
@@ -8868,7 +8868,7 @@ p.product-name a:hover {
 #clp_landing_blog_mobile .header-container h5 {
   background: #ffffff;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   padding-right: 2%;
   position: absolute;
@@ -8977,7 +8977,7 @@ p.product-name a:hover {
 .clp_landing_blog .container .header-container h5 {
   background: #ffffff;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   padding-right: 2%;
   position: absolute;
@@ -9006,7 +9006,7 @@ p.product-name a:hover {
 }
 .clp_landing_blog .container .content-container .left div h2 {
   color: #ffffff;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   letter-spacing: 1px;
 }
@@ -9316,7 +9316,7 @@ p.product-name a:hover {
   }
   #clp_landing_recommended .container h5 {
     background: #ffffff;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     font-size: 15px;
     padding-right: 2%;
     position: absolute;
@@ -9354,7 +9354,7 @@ p.product-name a:hover {
   font-weight: normal;
 }
 .seo_content h2 {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 1px;
   margin-bottom: 0;
@@ -9712,14 +9712,14 @@ p.product-name a:hover {
  * Layered Navigation
  * ============================================ */
 .block-layered-nav .block-title span {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 15px;
 }
 
 .block-layered-nav .block-subtitle--filter {
   display: none;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -9764,7 +9764,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content > dl > dt {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -9879,7 +9879,7 @@ p.product-name a:hover {
 .block-layered-nav .block-content p {
   border-bottom: 0;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 11px;
   font-weight: normal;
   letter-spacing: 1px;
@@ -9921,7 +9921,7 @@ p.product-name a:hover {
   border: 0;
   border-bottom: 1px solid #CCCCCC;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
   margin: 1.5% 1.5% 0 1.5%;
@@ -10173,7 +10173,7 @@ p.product-name a:hover {
 .block-layered-nav .currently .block-subtitle {
   display: block;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -10297,7 +10297,7 @@ div#tab_content > div > div .center {
   width: 100%;
 }
 div#tab_content > div > div h1 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   letter-spacing: 1px;
   text-align: center;
@@ -10305,7 +10305,7 @@ div#tab_content > div > div h1 {
   width: 100%;
 }
 div#tab_content > div > div h2 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: "Helvetica", Arial, sans-serif;
   font-size: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -10391,7 +10391,7 @@ dl.brand_tabs dd .center {
   width: 100%;
 }
 dl.brand_tabs dd h1 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   letter-spacing: 1px;
   text-align: center;
@@ -10399,7 +10399,7 @@ dl.brand_tabs dd h1 {
   width: 100%;
 }
 dl.brand_tabs dd h2 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: "Helvetica", Arial, sans-serif;
   font-size: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -10578,7 +10578,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-essential .product-essentials-bottom .right .box-title h2 {
   float: left;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
 }
 .product-view .product-essential .product-essentials-bottom .right .box-title .border {
@@ -10685,7 +10685,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .product-name h1 {
   float: left;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
   line-height: 27px;
@@ -10775,7 +10775,7 @@ body.amshopby-index-index div.banner img.mobile {
 .product-view .product-shop .price-box .regular-price .price,
 .product-view .product-shop .price-box .special-price .price,
 .product-view .product-shop .price-box .full-product-price .price {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 22px;
   font-weight: normal;
 }
@@ -10790,7 +10790,7 @@ body.amshopby-index-index div.banner img.mobile {
   color: #635546;
   display: block;
   float: left;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 22px;
   margin-right: 10px;
 }
@@ -10802,7 +10802,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .price-box .special-price .price {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 22px;
 }
 @media only screen and (max-width: 785px) {
@@ -10846,7 +10846,7 @@ body.amshopby-index-index div.banner img.mobile {
 .product-view .product-shop .configurable-pricing .price {
   font-size: 22px;
   color: #635546;
-  font-family: "Helvetica-Neue-light",Arial,sans-serif;
+  font-family: "Helvetica",Arial,sans-serif;
 }
 .product-view .product-shop .configurable-product-sku {
   clear: both;
@@ -10916,7 +10916,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .price-box .old-price span {
   color: #635546;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 22px;
 }
 @media only screen and (max-width: 785px) {
@@ -10928,7 +10928,7 @@ body.amshopby-index-index div.banner img.mobile {
   color: #e56066;
   display: block;
   float: right;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 22px;
   line-height: 1.2;
 }
@@ -11722,7 +11722,7 @@ body.amshopby-index-index div.banner img.mobile {
   }
   .product-collateral > dl > dt {
     color: #635546;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     line-height: auto;
@@ -11841,7 +11841,7 @@ body.amshopby-index-index div.banner img.mobile {
     display: block;
   }
   .product-img-box .product-name h1 {
-    font-family: "Helvetica-Neue-light", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     font-size: 18px;
     text-transform: none;
   }
@@ -11924,7 +11924,7 @@ body.amshopby-index-index div.banner img.mobile {
 .grouped-items-table .name-wrapper {
   color: #8A7967;
   float: left;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   margin-top: 7px;
   width: 45%;
@@ -12005,23 +12005,23 @@ body.amshopby-index-index div.banner img.mobile {
   }
 }
 .grouped-items-table .price-box .regular-price .price-label {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
 }
 .grouped-items-table .price-box .regular-price .price {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
 }
 .grouped-items-table .price-box .old-price {
   float: right;
 }
 .grouped-items-table .price-box .old-price .price-label {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   line-height: 1;
 }
 .grouped-items-table .price-box .old-price .price {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   line-height: 1;
 }
@@ -12044,7 +12044,7 @@ body.amshopby-index-index div.banner img.mobile {
 .grouped-items-table .price-box .savings {
   clear: right;
   float: right;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   line-height: 1;
 }
@@ -12103,7 +12103,7 @@ body.amshopby-index-index div.banner img.mobile {
   padding-bottom: 20px;
 }
 #product-options-wrapper dt label {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   text-transform: capitalize;
 }
@@ -12196,7 +12196,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-options dt label {
   color: #635546;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   text-transform: capitalize;
@@ -12404,7 +12404,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .block-related .block-title h2 {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -12852,7 +12852,7 @@ div.block-compare div.block-title strong {
   border-bottom: 0;
 }
 div.block-compare div.block-title strong span {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
 }
@@ -13216,7 +13216,7 @@ div.block-compare .actions .button:hover {
   }
 }
 .cart-table {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .cart-table th,
 .cart-table td,
@@ -13232,7 +13232,7 @@ div.block-compare .actions .button:hover {
 }
 .cart-table thead th,
 .cart-table tbody td {
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   padding: 10px 12px;
 }
@@ -13258,7 +13258,7 @@ div.block-compare .actions .button:hover {
   font-size: 9px;
   padding: 0 5px;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .cart-table .product-cart-image .cart-links,
 .cart-table .product-cart-info .btn-remove,
@@ -13288,7 +13288,7 @@ div.block-compare .actions .button:hover {
   }
 }
 .cart-table .product-cart-sku {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: italic;
   font-size: 12px;
   margin: 5px 0 12px;
@@ -13426,7 +13426,7 @@ div.block-compare .actions .button:hover {
   .cart-table td[data-rwd-label]:before {
     content: attr(data-rwd-label) ":";
     font-size: 12px;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     padding-right: 5px;
     text-transform: uppercase;
   }
@@ -13515,7 +13515,7 @@ div.block-compare .actions .button:hover {
   .cart-table .product-cart-price:before {
     font-weight: 500;
     font-size: 15px;
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
   }
   .cart-table .cart-footer-actions {
     text-align: center;
@@ -13591,7 +13591,7 @@ div.block-compare .actions .button:hover {
   margin-top: 4px;
 }
 .shipping .form-list label {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 13px;
   font-weight: 400;
   text-transform: uppercase;
@@ -13605,13 +13605,13 @@ div.block-compare .actions .button:hover {
   margin-bottom: 10px;
 }
 .shipping .sp-methods label {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-style: italic;
   min-width: 100px;
 }
 .shipping .sp-methods label span {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
 }
@@ -13660,7 +13660,7 @@ div.block-compare .actions .button:hover {
   clear: both;
 }
 .cart .cart-totals table {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -13688,7 +13688,7 @@ div.block-compare .actions .button:hover {
 }
 .cart .cart-totals table tfoot strong span,
 .cart .cart-totals table tfoot span.price {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .cart .cart-totals table tfoot strong {
   font-weight: 400;
@@ -13721,7 +13721,7 @@ div.block-compare .actions .button:hover {
 }
 #discount-coupon-form label,
 .cart .giftcard label {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-weight: 400;
   text-align: left;
@@ -14225,7 +14225,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 .block-progress dt {
   padding-top: 6px;
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -14265,7 +14265,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 .block-progress dd {
   padding-left: 15px;
   margin-bottom: 10px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: italic;
 }
 @media only screen and (max-width: 768px) {
@@ -14283,7 +14283,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
   padding: 0;
   margin: 0 0 3px 0;
   color: #8A7967;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   text-transform: none;
   font-style: italic;
   float: left;
@@ -14529,7 +14529,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 .checkout-review-table tbody tr th {
   background: #ffffff;
   text-transform: uppercase;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   line-height: 1.4;
   border-bottom: 1px solid #CCC;
@@ -14893,7 +14893,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 
 .opc #opc-login p:not(.required) {
   font-style: italic;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 13px;
 }
 
@@ -14915,7 +14915,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
   display: block;
 }
 .remember-me-popup p {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .remember-me-popup .remember-me-popup-close {
   position: absolute;
@@ -15018,7 +15018,7 @@ body.customer-account .data-table {
   margin-top: 5px;
 }
 body.customer-account .data-table td a {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   text-transform: uppercase;
   font-style: normal;
   font-size: 13px;
@@ -15124,7 +15124,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .dashboard .box-account p,
 .dashboard .box-account address {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: italic;
 }
 .dashboard .box-account p a,
@@ -15192,7 +15192,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .dashboard .box-reviews li .details .ratings strong {
   float: left;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 13px;
   margin-right: 5px;
 }
@@ -15205,7 +15205,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
  * Address Book
  * ============================================ */
 .my-account .addresses-list {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .my-account .addresses-list .col-1,
 .my-account .addresses-list .col-2 {
@@ -15314,7 +15314,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 
 .order-date {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   text-transform: uppercase;
 }
 
@@ -15346,7 +15346,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .order-info-box .box-title h2 {
   font-size: 14px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-weight: bold;
   line-height: 1.5;
 }
@@ -15355,11 +15355,11 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .order-info-box .box-content {
   float: left;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .order-info-box .box-content td,
 .order-info-box .box-content th {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   line-height: 1.3;
 }
 .order-info-box .box-content th {
@@ -15369,7 +15369,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
   padding-left: 15px;
 }
 .order-info-box .box-content strong {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
 }
@@ -15489,7 +15489,7 @@ ol#cart-sidebar-reorder p.product-name {
     margin-top: 0;
   }
   .dashboard div.welcome-msg {
-    font-family: "Helvetica-Neue", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     margin-bottom: 0;
   }
   .dashboard div.welcome-msg .hello {
@@ -15801,7 +15801,7 @@ div.paypal-logo span > img {
   margin-bottom: 0;
 }
 #customer-reviews .review-heading .pager .count-container .limiter label {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 10px;
   text-transform: uppercase;
 }
@@ -15820,7 +15820,7 @@ div.paypal-logo span > img {
   color: #635546;
 }
 #customer-reviews h3 {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   text-transform: uppercase;
@@ -15834,7 +15834,7 @@ div.paypal-logo span > img {
 }
 #customer-reviews .fieldset h4 {
   border-bottom: 1px solid #CCCCCC;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   padding-bottom: 5px;
@@ -15844,7 +15844,7 @@ div.paypal-logo span > img {
   display: none;
 }
 #customer-reviews .fieldset .form-list {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   margin: 10px 0;
@@ -15879,7 +15879,7 @@ div.paypal-logo span > img {
   width: 470px;
 }
 #customer-reviews dl {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   margin-bottom: 10px;
@@ -15908,7 +15908,7 @@ div.paypal-logo span > img {
   padding-bottom: 30px;
 }
 #customer-reviews dl dd .ratings-table {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   width: 100%;
 }
@@ -15974,7 +15974,7 @@ div.paypal-logo span > img {
  * Ratings - Global
  * ============================================ */
 .ratings-table {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
 }
@@ -16318,7 +16318,7 @@ div.paypal-logo span > img {
   text-align: center;
 }
 #wishlist-table.clean-table {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
   width: 100%;
@@ -16331,13 +16331,13 @@ div.paypal-logo span > img {
   vertical-align: top;
 }
 #wishlist-table.clean-table thead th {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
 }
 #wishlist-table .product-name {
   font-size: 16px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
 }
@@ -16346,7 +16346,7 @@ div.paypal-logo span > img {
 }
 #wishlist-table .wishlist-sku {
   font-size: 11px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   margin: 5px 0;
 }
 #wishlist-table textarea {
@@ -16354,7 +16354,7 @@ div.paypal-logo span > img {
   width: 100%;
   height: 45px;
   font-size: 11px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 #wishlist-table textarea::-webkit-input-placeholder {
   text-transform: uppercase;
@@ -16428,7 +16428,7 @@ div.paypal-logo span > img {
   white-space: normal;
 }
 #wishlist-table .price-box {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
 }
 #wishlist-table .price-box .price {
@@ -16663,7 +16663,7 @@ div.paypal-logo span > img {
 }
 .header-minicart .block-subtitle {
   color: #8A7967;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 10px;
   font-weight: bold;
   line-height: 1.4;
@@ -16994,7 +16994,7 @@ div.paypal-logo span > img {
 .product-review .product-img-box p.label {
   border-bottom: 1px solid #CCCCCC;
   font-size: 16px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   margin-top: 20px;
   padding-bottom: 10px;
   text-transform: uppercase;
@@ -17007,11 +17007,11 @@ div.paypal-logo span > img {
   color: #3399CC;
   font-size: 16px;
   font-weight: 600;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   padding-bottom: 10px;
 }
 .product-review .ratings-table {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .product-review .ratings-table th {
   padding-right: 10px;
@@ -17026,14 +17026,14 @@ div.paypal-logo span > img {
   border-bottom: 1px solid #CCCCCC;
   font-size: 16px;
   font-weight: 400;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   margin-top: 20px;
   padding: 10px 0;
   text-transform: uppercase;
 }
 .product-review .ratings-description dd {
   color: #737373;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 13px;
 }
 
@@ -17073,7 +17073,7 @@ div.paypal-logo span > img {
 .cms-page-view .std p,
 .cms-no-route .std p {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 14px;
   line-height: 1.425em;
 }
@@ -17097,7 +17097,7 @@ div.paypal-logo span > img {
 .cms-page-view .std li,
 .cms-no-route .std li {
   color: #8A7967;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   font-style: italic;
   line-height: 24px;
@@ -17129,7 +17129,7 @@ div.paypal-logo span > img {
   list-style: none;
   margin-left: 0;
   font-style: normal;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 #accordion .toggle-tabs {
@@ -17137,7 +17137,7 @@ div.paypal-logo span > img {
 }
 #accordion > dl > dt {
   color: #635546;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -17251,7 +17251,7 @@ div.paypal-logo span > img {
  * ============================================ */
 .price-box .minimal-price-link .label {
   color: #e56066;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
 }
@@ -17799,7 +17799,7 @@ body[class*="checkout-multishipping-"] .checkout-progress > li {
   border-bottom: 1px solid #CCCCCC;
   border-right: 1px solid #CCCCCC;
   margin-bottom: 10px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 body[class*="checkout-multishipping-"] .checkout-progress > li.active {
   background-color: #DDDDDD;
@@ -18047,7 +18047,7 @@ body.storelocator-index-index div.main-container {
 body.storelocator-index-view div#store_search h2.legend,
 body.storelocator-index-index div#store_search h2.legend {
   border-bottom: 0;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
 }
 body.storelocator-index-view div#store_search form[name="store_search"],
@@ -18186,7 +18186,7 @@ body.storelocator-index-index div.store-locator-tag .store-locator-span-tag {
   body.storelocator-index-view div.store-locator-tag .store-locator-span-tag,
   body.storelocator-index-index div.store-locator-tag .store-locator-span-tag {
     background: #d0c9c3 url("http://www.pharmaca.com/skin/frontend/pharmaca/default/images/clp_filter_hb.png") no-repeat scroll 15px center;
-    font-family: "Helvetica-Neue-light", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
     font-size: 13px;
     padding: 13px 0 11px 53px;
     width: 100%;
@@ -18265,7 +18265,7 @@ body.storelocator-index-index div#store-content {
 body.storelocator-index-view div#store-content div.store-title,
 body.storelocator-index-index div#store-content div.store-title {
   color: #635546;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   text-transform: uppercase;
@@ -18421,7 +18421,7 @@ body.storelocator-index-view div#wapstore div#mapwap span#description label,
 body.storelocator-index-index div#wapstore div#mapwap span#description label {
   background: #635546;
   color: #ffffff;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   letter-spacing: 1px;
@@ -18512,13 +18512,13 @@ body.storelocator-index-index div#wapstore div#mapwap span#description h2.events
   border-radius: 5px;
   color: #ffffff;
   display: inline-block;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   padding: 8px 8px 4px;
 }
 body.storelocator-index-view div#wapstore div#mapwap span#description h3,
 body.storelocator-index-index div#wapstore div#mapwap span#description h3 {
   color: #e56066;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 16px;
   margin: 15px 0;
   text-transform: capitalize;
@@ -18534,7 +18534,7 @@ body.storelocator-index-index div p.store-tag {
 .wap_description span#description label {
   background: #635546;
   color: #ffffff;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   letter-spacing: 1px;
@@ -18631,12 +18631,12 @@ body.storelocator-index-index div p.store-tag {
   border-radius: 5px;
   color: #ffffff;
   display: inline-block;
-  font-family: "Helvetica-Neue-light", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   padding: 8px 8px 4px;
 }
 .wap_description span#description h3 {
   color: #e56066;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 16px;
   margin: 15px 0;
   text-transform: capitalize;
@@ -19323,7 +19323,7 @@ a.view-all {
   display: inline-block;
 }
 #newsletter-modal .popup-text h2 {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 25px;
   letter-spacing: 2px;
   color: #3c9991;
@@ -19343,7 +19343,7 @@ a.view-all {
   font-size: 20px;
   letter-spacing: 1px;
   line-height: 120%;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 #newsletter-modal .popup-offers {
   max-width: 100%;
@@ -19354,7 +19354,7 @@ a.view-all {
 #newsletter-modal .popup-offers p {
   font-size: 15px;
   color: #3c9991;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-weight: 100;
 }
 #newsletter-modal .popup-image {
@@ -19563,7 +19563,7 @@ ul.checkout-types {
 }
 
 .slick-prev:before, .slick-next:before {
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 20px;
   line-height: 1;
   color: white;
@@ -19678,7 +19678,7 @@ ul.checkout-types {
   content: "â€¢";
   width: 20px;
   height: 20px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   font-size: 6px;
   line-height: 20px;
   text-align: center;
@@ -19705,7 +19705,7 @@ ul.checkout-types {
   margin: 5px 0;
   padding: 3px 10px;
   color: #E6E6E6;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 .reward-message.reward-checkout {
   margin-bottom: 10px;
@@ -19827,13 +19827,13 @@ $mq-fixed-value: 1024;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Helvetica-Neue';
+  font-family: 'Helvetica';
   src: url("http://www.pharmaca.com/skin/frontend/pharmaca/default/scss/fonts/Helvetica_Neue_LT_Std/HelveticaNeueLTStd-Ex.otf");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Helvetica-Neue-light';
+  font-family: 'Helvetica';
   src: url("http://www.pharmaca.com/skin/frontend/pharmaca/default/scss/fonts/Helvetica_Neue_LT_Std/HelveticaNeueLTStd-LtEx.otf");
   font-weight: normal;
   font-style: normal;
@@ -20142,7 +20142,7 @@ body .promos > li {
   top: 10%;
   font-weight: 500;
   font-size: 20px;
-  font-family: "Helvetica-Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
   text-shadow: 1px 1px 3px #555555;
 }
 
