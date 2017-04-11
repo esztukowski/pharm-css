@@ -9218,7 +9218,7 @@ div#tab_content > div > div .center {
   width: 100%;
 }
 div#tab_content > div > div h1 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: Helvetica, Arial, sans-serif;
   font-size: 18px;
   letter-spacing: 1px;
   text-align: center;
@@ -9226,7 +9226,7 @@ div#tab_content > div > div h1 {
   width: 100%;
 }
 div#tab_content > div > div h2 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: Helvetica, Arial, sans-serif;
   font-size: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -9312,7 +9312,7 @@ dl.brand_tabs dd .center {
   width: 100%;
 }
 dl.brand_tabs dd h1 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: Helvetica, Arial, sans-serif;
   font-size: 18px;
   letter-spacing: 1px;
   text-align: center;
@@ -9320,7 +9320,7 @@ dl.brand_tabs dd h1 {
   width: 100%;
 }
 dl.brand_tabs dd h2 {
-  font-famiy: "Helvetica-Neue", Arial, sans-serif;
+  font-famiy: Helvetica, Arial, sans-serif;
   font-size: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
