@@ -458,7 +458,7 @@ body .promos > li {
   font-size: 20px;
 }
 #home-top-categories .container .border {
-  border-top: 2px solid #635546;
+  border-top: 2px solid #333;
   float: left;
   height: 2px;
   margin-left: 2%;
@@ -514,7 +514,7 @@ body .promos > li {
   width: 100%;
 }
 #home-top-categories .container ul li h3 a {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 13px;
   text-transform: none;
@@ -527,7 +527,7 @@ body .promos > li {
   width: 100%;
 }
 #home-top-categories .container ul li .price-box span {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
@@ -1605,7 +1605,7 @@ ul {
  * Typography   
  * ============================================ */
 h1, .h1 {
-  color: #635546;
+  color: #333;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1620,7 +1620,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -1636,7 +1636,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -1652,7 +1652,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -1668,7 +1668,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -1684,7 +1684,7 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -1782,7 +1782,7 @@ h6, .h6 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
-  color: #635546;
+  color: #333;
   border-bottom: 1px solid #CCCCCC;
   padding-bottom: 3px;
   margin-bottom: 15px;
@@ -1791,7 +1791,7 @@ h6, .h6 {
 
 .product-name h1,
 .product-name .h1 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -1826,7 +1826,7 @@ h6, .h6 {
 }
 .block-title h2,
 .block-title h3 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -1848,7 +1848,7 @@ h6, .h6 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
-  color: #635546;
+  color: #333;
   border-bottom: 1px solid #CCCCCC;
   padding-bottom: 3px;
   margin-bottom: 15px;
@@ -1871,7 +1871,7 @@ h6, .h6 {
 .amshopby-filters-left h2,
 .amshopby-filters-left h3,
 .amshopby-filters-left strong {
-  color: #635546;
+  color: #333;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1960,7 +1960,7 @@ body:not(.customer-account) .block:first-child .block-title {
     margin-bottom: 0;
   }
   .sidebar .block:not(.block-layered-nav) .block-title > strong {
-    color: #635546;
+    color: #333;
     font-family: Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -1982,7 +1982,7 @@ body:not(.customer-account) .block:first-child .block-title {
     border-width: 1px;
     border-style: solid;
     border-color: #CCCCCC;
-    color: #635546;
+    color: #333;
     font-size: 12px;
     font-weight: normal;
     margin-bottom: 0px;
@@ -2002,7 +2002,7 @@ body:not(.customer-account) .block:first-child .block-title {
     background-color: #d9d9d9;
   }
   .sidebar .block:not(.block-layered-nav) .block-title.active > strong {
-    color: #635546;
+    color: #333;
     font-family: Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -2024,7 +2024,7 @@ body:not(.customer-account) .block:first-child .block-title {
     border-width: 1px;
     border-style: solid;
     border-color: #CCCCCC;
-    color: #635546;
+    color: #333;
     font-size: 12px;
     font-weight: normal;
     margin-bottom: 0px;
@@ -3342,7 +3342,7 @@ span.weee {
  * Standard Formatted Text Block
  */
 .std p {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
@@ -3355,26 +3355,26 @@ span.weee {
   list-style: decimal outside;
   margin-bottom: 1.5em;
   font-size: 14px;
-  color: #635546;
+  color: #333;
 }
 
 .std ol li {
   margin-left: 2em;
   font-size: 14px;
-  color: #635546;
+  color: #333;
 }
 
 .std ul {
   list-style: disc outside;
   margin-bottom: 1.5em;
   font-size: 14px;
-  color: #635546;
+  color: #333;
 }
 
 .std ul li {
   margin-left: 2em;
   font-size: 14px;
-  color: #635546;
+  color: #333;
 }
 
 .std .note {
@@ -3384,7 +3384,7 @@ span.weee {
 
 .std img {
   font-size: 14px;
-  color: #635546;
+  color: #333;
 }
 
 /* -------------------------------------------- *
@@ -3807,20 +3807,20 @@ body.customer-account .data-table .show-details .summary-collapse:hover:before {
 
 .note-msg {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   letter-spacing: 1.5px;
   line-height: 33px;
 }
 
 .recommendations {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   letter-spacing: 1.5px;
   line-height: 33px;
 }
 .recommendations a {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   text-decoration: underline;
   letter-spacing: 1.5px;
   line-height: 33px;
@@ -3864,7 +3864,7 @@ body .ui.modal #sv-signup-popup-close .close {
 
 .cms-page-view .cms-menu ul a {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   text-decoration: underline;
 }
 .cms-page-view .cms-menu ul a:hover {
@@ -4013,7 +4013,7 @@ ul#travel-modes li.walking label:focus {
 }
 
 form .legend {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -4100,7 +4100,7 @@ label {
 label.required:after,
 span.required:after {
   content: ' *';
-  color: #635546;
+  color: #333;
   font-weight: normal;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
@@ -4166,7 +4166,7 @@ textarea {
   border-radius: 2px;
   border: 1px solid #cccccc;
   background: #ffffff;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 11px;
 }
@@ -4758,7 +4758,7 @@ body {
   display: block;
 }
 .page-header-container .additional-links ul li a span {
-  color: #635546;
+  color: #333;
   float: left;
   letter-spacing: .06em;
   padding: 9px 0 0 0;
@@ -4971,7 +4971,7 @@ body {
   width: 25px;
 }
 .skip-link .label {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
@@ -5013,7 +5013,7 @@ body {
   padding: 0;
 }
 .skip-cart .label {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 13px;
   letter-spacing: .06em;
@@ -5194,7 +5194,7 @@ body {
  * ============================================ */
 .skip-links {
   clear: both;
-  background: #635546;
+  background: #333;
   border-top: 1px solid #EDEDED;
   border-bottom: 1px solid #EDEDED;
   position: absolute;
@@ -5252,7 +5252,7 @@ a.skip-link:hover span.count:hover {
 }
 
 .skip-link:not(.skip-active):hover span.label {
-  color: #635546;
+  color: #333;
   text-decoration: underline;
 }
 @media only screen and (max-width: 1024px) {
@@ -5267,7 +5267,7 @@ a.skip-link:hover span.count:hover {
 
 @media only screen and (max-width: 1024px) {
   .skip-link {
-    background: #635546;
+    background: #333;
     height: 59px;
     padding: 8px;
   }
@@ -5354,7 +5354,7 @@ a.skip-link:hover span.count:hover {
   background: #EDEDED;
 }
 .skip-content.skip-active .label {
-  color: #635546;
+  color: #333;
 }
 
 /* hack to allow banner to show without showing mobile nav (unless skip-active is there as well) */
@@ -5566,7 +5566,7 @@ a.skip-link:hover span.count:hover {
  * General Navigation Styles
  * ============================================ */
 #nav {
-  background: #635546;
+  background: #333;
 }
 
 .nav-primary {
@@ -5590,7 +5590,7 @@ a.skip-link:hover span.count:hover {
   background: #cfc9c3;
 }
 .nav-primary.over li.level0.active a {
-  color: #635546;
+  color: #333;
 }
 
 .nav-secondary {
@@ -5618,7 +5618,7 @@ a.skip-link:hover span.count:hover {
   text-transform: uppercase;
 }
 .nav-primary li.level0 > a:hover {
-  color: #635546;
+  color: #333;
 }
 
 @media only screen and (min-width: 1024px) {
@@ -5644,7 +5644,7 @@ a.skip-link:hover span.count:hover {
     line-height: 32px;
   }
   .nav-primary li.level0 > a {
-    color: #635546;
+    color: #333;
     min-height: 0;
     padding-left: 40px;
   }
@@ -5672,7 +5672,7 @@ a.skip-link:hover span.count:hover {
     padding: 5px 0;
   }
   .nav-primary li.level0 ul li a {
-    color: #635546;
+    color: #333;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: bold;
@@ -5760,7 +5760,7 @@ a.skip-link:hover span.count:hover {
   .nav-primary li.menu-active > a,
   .nav-primary li.sub-menu-active > a {
     border: 0;
-    color: #635546;
+    color: #333;
     padding-bottom: 0;
     margin-bottom: 0;
     margin-top: 0;
@@ -5960,7 +5960,7 @@ a.skip-link:hover span.count:hover {
 }
 
 #search {
-  color: #635546;
+  color: #333;
   width: 100%;
   height: 40px;
   font-size: 13px;
@@ -5971,14 +5971,14 @@ a.skip-link:hover span.count:hover {
   font-weight: bold;
 }
 #search::-webkit-input-placeholder {
-  color: #635546;
+  color: #333;
 }
 #search:-moz-placeholder {
-  color: #635546;
+  color: #333;
   opacity: 1;
 }
 #search::-moz-placeholder {
-  color: #635546;
+  color: #333;
   opacity: 1;
 }
 
@@ -6110,7 +6110,7 @@ a.skip-link:hover span.count:hover {
   background-position: -325px -75px;
 }
 .skip-cart .label {
-  color: #635546;
+  color: #333;
 }
 @media only screen and (max-width: 1024px) {
   .skip-cart .label {
@@ -6535,7 +6535,7 @@ a.skip-link:hover span.count:hover {
   clear: both;
 }
 .footer-container #footer-top-block {
-  background: #635546;
+  background: #333;
   border-top: 1px solid #c1b7ad;
   border-bottom: 1px solid #c1b7ad;
   padding: 12px 0;
@@ -6663,7 +6663,7 @@ a.skip-link:hover span.count:hover {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
   text-transform: uppercase;
-  color: #635546;
+  color: #333;
 }
 .footer-container #footer-middle-block .left {
   float: left;
@@ -7105,7 +7105,7 @@ p.product-name a:hover {
     display: block;
     font: 11px Arial, sans-serif;
     margin-top: 15px;
-    color: #635546;
+    color: #333;
   }
 }
 .category-products .toolbar div.sorter div.sort-by div.styled-select,
@@ -7148,14 +7148,14 @@ p.product-name a:hover {
   }
   .category-products .toolbar div.sorter div.sort-by div.styled-select select,
   .category-products .toolbar-bottom div.sorter div.sort-by div.styled-select select {
-    color: #635546;
+    color: #333;
     background: #ffffff url("../images/bg_select.gif") no-repeat scroll 85% 54%;
   }
 }
 @media only screen and (max-width: 480px) {
   .category-products .toolbar div.sorter div.sort-by div.styled-select select,
   .category-products .toolbar-bottom div.sorter div.sort-by div.styled-select select {
-    color: #635546;
+    color: #333;
     background: #ffffff url("../images/bg_select.gif") no-repeat scroll 83% 54%;
   }
 }
@@ -7675,14 +7675,14 @@ p.product-name a:hover {
 }
 .cat_landing_title span {
   background: #fff;
-  color: #635546;
+  color: #333;
   padding-right: 20px;
   position: absolute;
   top: 33%;
   z-index: 2;
 }
 .cat_landing_title .border {
-  border: 1px solid #635546;
+  border: 1px solid #333;
   height: 1px;
   position: absolute;
   top: 50%;
@@ -7726,7 +7726,7 @@ p.product-name a:hover {
 }
 .subcategories ul li a div span {
   background: url("../images/icon_clp_brands_title.jpg") no-repeat right 0 #ffffff;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 1px;
@@ -7790,7 +7790,7 @@ p.product-name a:hover {
 }
 #clp_landing_blog_mobile .header-container h5 {
   background: #ffffff;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
   padding-right: 2%;
@@ -7798,7 +7798,7 @@ p.product-name a:hover {
   z-index: 2;
 }
 #clp_landing_blog_mobile .header-container .border {
-  border: 1px solid #635546;
+  border: 1px solid #333;
   height: 1px;
   position: absolute;
   top: 33%;
@@ -7899,7 +7899,7 @@ p.product-name a:hover {
 }
 .clp_landing_blog .container .header-container h5 {
   background: #ffffff;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
   padding-right: 2%;
@@ -7907,7 +7907,7 @@ p.product-name a:hover {
   z-index: 2;
 }
 .clp_landing_blog .container .header-container .border {
-  border: 1px solid #635546;
+  border: 1px solid #333;
   height: 1px;
   position: absolute;
   top: 33%;
@@ -8053,7 +8053,7 @@ p.product-name a:hover {
   font-size: 20px;
 }
 #clp_landing_recommended .container .border {
-  border-top: 2px solid #635546;
+  border-top: 2px solid #333;
   float: left;
   height: 2px;
   margin-left: 2%;
@@ -8109,7 +8109,7 @@ p.product-name a:hover {
   width: 100%;
 }
 #clp_landing_recommended .container ul li h3 a {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 13px;
   text-transform: none;
@@ -8122,7 +8122,7 @@ p.product-name a:hover {
   width: 100%;
 }
 #clp_landing_recommended .container ul li .price-box span {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
@@ -8641,7 +8641,7 @@ p.product-name a:hover {
 
 .block-layered-nav .block-subtitle--filter {
   display: none;
-  color: #635546;
+  color: #333;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -8663,7 +8663,7 @@ p.product-name a:hover {
   border-width: 1px;
   border-style: solid;
   border-color: #CCCCCC;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
@@ -8685,7 +8685,7 @@ p.product-name a:hover {
   display: none;
 }
 .block-layered-nav .block-content > dl > dt {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -8708,7 +8708,7 @@ p.product-name a:hover {
   border-width: 1px;
   border-style: solid;
   border-color: #CCCCCC;
-  color: #635546;
+  color: #333;
   font-size: 12px;
   font-weight: normal;
   margin-bottom: 0px;
@@ -8725,7 +8725,7 @@ p.product-name a:hover {
   background-color: #d9d9d9;
 }
 .block-layered-nav .block-content > dl > dt span {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
@@ -8799,7 +8799,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content p {
   border-bottom: 0;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: normal;
@@ -8841,7 +8841,7 @@ p.product-name a:hover {
 .block-layered-nav .block-content > dl#narrow-by-list > dt {
   border: 0;
   border-bottom: 1px solid #CCCCCC;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
@@ -8878,7 +8878,7 @@ p.product-name a:hover {
   color: #8A7967;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd li a.amshopby-attr-selected span {
-  color: #635546;
+  color: #333;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd a {
   background-image: url("../images/custom_input_unchecked.jpg");
@@ -8894,11 +8894,11 @@ p.product-name a:hover {
   color: #8A7967;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd a:focus, .block-layered-nav .block-content > dl#narrow-by-list dd a:active {
-  color: #635546;
+  color: #333;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd a.amshopby-attr-selected {
   background-image: url("../images/custom_input_checked.jpg");
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
@@ -8906,7 +8906,7 @@ p.product-name a:hover {
   padding: 11px 2% 6px 10%;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd a.amshopby-attr-selected span {
-  color: #635546;
+  color: #333;
   font-weight: bold;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd a.amshopby-attr,
@@ -9064,7 +9064,7 @@ p.product-name a:hover {
   .block-layered-nav #narrow-by-list2 dd ol li a:hover {
     background-repeat: no-repeat;
     background-position: left center;
-    color: #635546;
+    color: #333;
   }
   .block-layered-nav .accordion-open #narrow-by-list,
   .block-layered-nav .accordion-open #narrow-by-list2 {
@@ -9093,7 +9093,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .currently .block-subtitle {
   display: block;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -9178,7 +9178,7 @@ ul.brand_tabs li.brand_tab:last-child {
   border-right: 1px solid #cfc9c3;
 }
 ul.brand_tabs li.brand_tab.active {
-  border: 1px solid #635546;
+  border: 1px solid #333;
 }
 ul.brand_tabs li.brand_tab.active div.arrow {
   background: url("../images//icon_tab_active.gif") no-repeat 0 0 transparent;
@@ -9202,7 +9202,7 @@ div#tab_content > div {
 }
 div#tab_content > div > div {
   background: #ffffff;
-  color: #635546;
+  color: #333;
   font-size: 12px;
   letter-spacing: .5px;
   padding: 5% 5% 1%;
@@ -9232,12 +9232,12 @@ div#tab_content > div > div h2 {
   text-transform: uppercase;
 }
 div#tab_content > div > div p {
-  color: #635546;
+  color: #333;
   font-size: 12px;
   margin-bottom: 30px;
 }
 div#tab_content > div > div table {
-  color: #635546;
+  color: #333;
   font-size: 12px;
   margin-bottom: 30px;
 }
@@ -9292,7 +9292,7 @@ dl.brand_tabs dt:last-child {
   border-bottom: 1px solid #cfc9c3 !important;
 }
 dl.brand_tabs dt.active {
-  border: 1px solid #635546;
+  border: 1px solid #333;
   border-bottom: 0;
 }
 dl.brand_tabs dd {
@@ -9326,12 +9326,12 @@ dl.brand_tabs dd h2 {
   text-transform: uppercase;
 }
 dl.brand_tabs dd p {
-  color: #635546;
+  color: #333;
   font-size: 12px;
   margin-bottom: 30px;
 }
 dl.brand_tabs dd table {
-  color: #635546;
+  color: #333;
   font-size: 12px;
   margin-bottom: 30px;
 }
@@ -9357,7 +9357,7 @@ dl.brand_tabs dd iframe {
   width: 100%;
 }
 dl.brand_tabs dd.active {
-  border: 1px solid #635546;
+  border: 1px solid #333;
   border-top: 0;
   display: block;
 }
@@ -9503,7 +9503,7 @@ body.amshopby-index-index div.banner img.mobile {
   font-size: 18px;
 }
 .product-view .product-essential .product-essentials-bottom .right .box-title .border {
-  border-top: 2px solid #635546;
+  border-top: 2px solid #333;
   float: left;
   height: 1px;
   margin: 9px 0 0 3%;
@@ -9564,7 +9564,7 @@ body.amshopby-index-index div.banner img.mobile {
   }
 }
 .product-view .product-essential .product-essentials-bottom .right ul li .product-name {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: normal;
   margin-top: 10px;
@@ -9591,7 +9591,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .product-name h1,
 .product-view .product-img-box .product-name h1 {
-  color: #635546;
+  color: #333;
   margin-bottom: 10px;
   border: 0;
 }
@@ -9627,7 +9627,7 @@ body.amshopby-index-index div.banner img.mobile {
   text-align: left;
 }
 .product-view .product-shop .price-info .price-as-configured span {
-  color: #635546;
+  color: #333;
   float: left;
 }
 .product-view .product-shop .price-info .price-as-configured span.full-product-price {
@@ -9641,7 +9641,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .short-description {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   margin-bottom: 5px;
   clear: both;
   padding-bottom: 18px;
@@ -9649,7 +9649,7 @@ body.amshopby-index-index div.banner img.mobile {
   font-family: Helvetica, Arial, sans-serif;
 }
 .product-view .product-shop .short-description a {
-  color: #635546;
+  color: #333;
   text-decoration: underline;
 }
 .product-view .product-shop .short-description a:hover {
@@ -9670,7 +9670,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .no-rating a {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   text-decoration: underline;
 }
 .product-view .product-shop .no-rating a:hover {
@@ -9708,7 +9708,7 @@ body.amshopby-index-index div.banner img.mobile {
   padding-left: 0;
 }
 .product-view .product-shop .price-box .special-price .price-label {
-  color: #635546;
+  color: #333;
   display: block;
   float: left;
   font-family: Helvetica, Arial, sans-serif;
@@ -9722,7 +9722,7 @@ body.amshopby-index-index div.banner img.mobile {
   font-size: 16px;
 }
 .product-view .product-shop .price-box .special-price .price {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 22px;
 }
@@ -9766,7 +9766,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .configurable-pricing .price {
   font-size: 22px;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
 }
 .product-view .product-shop .configurable-product-sku {
@@ -9836,7 +9836,7 @@ body.amshopby-index-index div.banner img.mobile {
   text-decoration: none;
 }
 .product-view .price-box .old-price span {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 22px;
 }
@@ -10484,7 +10484,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-collateral.toggle-content dl dd div.tab-content {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
@@ -10492,11 +10492,11 @@ body.amshopby-index-index div.banner img.mobile {
   font-family: Arial, sans-serif;
   font-weight: normal;
   font-size: 14px;
-  color: #635546;
+  color: #333;
 }
 .product-collateral.toggle-content dl dd div.tab-content a {
   font-size: 14px;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-decoration: underline;
@@ -10642,7 +10642,7 @@ body.amshopby-index-index div.banner img.mobile {
     display: none;
   }
   .product-collateral > dl > dt {
-    color: #635546;
+    color: #333;
     font-family: Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -10681,7 +10681,7 @@ body.amshopby-index-index div.banner img.mobile {
     background-color: #d9d9d9;
   }
   .product-collateral > dl > dt span {
-    color: #635546;
+    color: #333;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: bold;
@@ -10950,13 +10950,13 @@ body.amshopby-index-index div.banner img.mobile {
   width: 100%;
 }
 .grouped-items-table .price-box .special-price .price-label {
-  color: #635546;
+  color: #333;
   display: inline-block;
   font-size: 18px;
   line-height: 1;
 }
 .grouped-items-table .price-box .special-price .price {
-  color: #635546;
+  color: #333;
   font-size: 18px;
   line-height: 1;
 }
@@ -11114,7 +11114,7 @@ body.amshopby-index-index div.banner img.mobile {
   margin: 10px 0 3px;
 }
 .product-options dt label {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
@@ -11322,7 +11322,7 @@ body.amshopby-index-index div.banner img.mobile {
   border-bottom: none;
 }
 .block-related .block-title h2 {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -11540,7 +11540,7 @@ div#product_facts p {
 dl#collateral-tabs .tab-content table {
   font-size: 13px;
   font-family: Helvetica, Arial, sans-serif;
-  color: #635546;
+  color: #333;
 }
 dl#collateral-tabs .tab-content table td {
   border-bottom: 1px solid #666;
@@ -11776,7 +11776,7 @@ div.block-compare div.block-title strong span {
   font-weight: normal;
 }
 div.block-compare div.block-title strong span small {
-  color: #635546;
+  color: #333;
   font-family: inherit;
   font-size: inherit;
   font-weight: inherit;
@@ -11830,7 +11830,7 @@ div.block-compare .actions a:hover {
 }
 div.block-compare .actions .button {
   background: #cfc9c3;
-  color: #635546;
+  color: #333;
   font-size: 15px;
   padding: 3.5% 10% 2%;
 }
@@ -11928,7 +11928,7 @@ div.block-compare .actions .button:hover {
 }
 .cart-forms .shipping .shipping-form li .input-box-select select::-ms-value {
   background: none;
-  color: #635546;
+  color: #333;
 }
 .cart-forms .shipping .shipping-form li .input-box-select .validation-advice {
   position: absolute;
@@ -12952,7 +12952,7 @@ body .no-touch .opc .section.allow:hover .step-title .number {
 
 .opc h3,
 .opc h4 {
-  color: #635546;
+  color: #333;
   font-size: 18px;
   font-weight: 500;
 }
@@ -13143,7 +13143,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 }
 .block-progress dt {
   padding-top: 6px;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -13554,7 +13554,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
   margin: 0 0 0 5px;
 }
 .configurable-swatch-list li.selected .swatch-link {
-  border: 1px solid #635546;
+  border: 1px solid #333;
 }
 .products-grid .configurable-swatch-list li {
   display: inline-block;
@@ -13707,7 +13707,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
   padding-left: 5px;
 }
 .product-view .product-options .swatch-attr .fullprice {
-  color: #635546;
+  color: #333;
 }
 .product-view .product-options .swatch-attr .save {
   color: #e56066;
@@ -14701,13 +14701,13 @@ div.paypal-logo span > img {
   clear: both;
 }
 #customer-reviews .review-heading h2 {
-  color: #635546;
+  color: #333;
   float: left;
   display: block;
   margin: 8px 0 0 0;
 }
 #customer-reviews .review-heading h2 span {
-  color: #635546;
+  color: #333;
   font-size: 11px;
 }
 #customer-reviews .review-heading .pager {
@@ -14736,7 +14736,7 @@ div.paypal-logo span > img {
   text-transform: uppercase;
 }
 #customer-reviews h2 span {
-  color: #635546;
+  color: #333;
 }
 #customer-reviews h3 {
   font-family: Helvetica, Arial, sans-serif;
@@ -14809,7 +14809,7 @@ div.paypal-logo span > img {
   text-transform: uppercase;
 }
 #customer-reviews dl dt a {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   text-transform: none;
@@ -14842,7 +14842,7 @@ div.paypal-logo span > img {
   margin: 15px 0;
 }
 #customer-reviews dl dd .review-meta {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
@@ -14901,7 +14901,7 @@ div.paypal-logo span > img {
   padding-right: 10px;
 }
 .ratings-table .rating-label {
-  color: #635546;
+  color: #333;
   display: inline-block;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
@@ -15134,10 +15134,10 @@ div.paypal-logo span > img {
   position: relative;
 }
 .slideshow-pager span:hover:before {
-  background-color: #635546;
+  background-color: #333;
 }
 .slideshow-pager span.cycle-pager-active:before {
-  background-color: #635546;
+  background-color: #333;
 }
 .slideshow-pager > * {
   cursor: pointer;
@@ -15991,14 +15991,14 @@ div.paypal-logo span > img {
 }
 .cms-page-view .std p,
 .cms-no-route .std p {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.425em;
 }
 .cms-page-view .std p a,
 .cms-no-route .std p a {
-  color: #635546;
+  color: #333;
   text-decoration: underline;
 }
 .cms-page-view .std p a:hover,
@@ -16055,7 +16055,7 @@ div.paypal-logo span > img {
   display: none;
 }
 #accordion > dl > dt {
-  color: #635546;
+  color: #333;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -16077,7 +16077,7 @@ div.paypal-logo span > img {
   border-width: 1px;
   border-style: solid;
   border-color: #CCCCCC;
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
@@ -16095,7 +16095,7 @@ div.paypal-logo span > img {
   background-color: #d9d9d9;
 }
 #accordion > dl > dt span {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
@@ -16986,7 +16986,7 @@ body.storelocator-index-view div#store_search form[name="store_search"] li,
 body.storelocator-index-view div#store_search form#store_search li,
 body.storelocator-index-index div#store_search form[name="store_search"] li,
 body.storelocator-index-index div#store_search form#store_search li {
-  color: #635546;
+  color: #333;
   clear: none;
   float: left;
   padding: 0 1% 0 0;
@@ -16996,7 +16996,7 @@ body.storelocator-index-view div#store_search form[name="store_search"] li label
 body.storelocator-index-view div#store_search form#store_search li label,
 body.storelocator-index-index div#store_search form[name="store_search"] li label,
 body.storelocator-index-index div#store_search form#store_search li label {
-  color: #635546;
+  color: #333;
   float: left;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 11px;
@@ -17050,7 +17050,7 @@ body.storelocator-index-view div#store_search form#store_search div.action-butto
 body.storelocator-index-index div#store_search form[name="store_search"] div.action-buttons button.reset,
 body.storelocator-index-index div#store_search form#store_search div.action-buttons button.reset {
   background: #d0c9c3;
-  color: #635546;
+  color: #333;
   margin-left: 2%;
   width: 33%;
 }
@@ -17095,7 +17095,7 @@ body.storelocator-index-index div.store-locator-tag .store-locator-span-tag {
   padding: 0px;
   font-weight: normal;
   border: none;
-  color: #635546;
+  color: #333;
   font-size: 11px;
   font-family: Helvetica, Arial, sans-sarif;
   text-transform: uppercase;
@@ -17143,7 +17143,7 @@ body.storelocator-index-index div.store-locator-tag .store-locator-span-tag {
   body.storelocator-index-index div.store-locator-tag > ul li a:hover {
     background: #d6d5d4;
     text-decoration: none;
-    color: #635546;
+    color: #333;
   }
   body.storelocator-index-view div.store-locator-tag > ul li a.tag_active,
   body.storelocator-index-index div.store-locator-tag > ul li a.tag_active {
@@ -17165,7 +17165,7 @@ body.storelocator-index-index div.store-locator-tag a {
   box-shadow: none;
   text-shadow: none;
   background: #cfc9c3;
-  color: #635546;
+  color: #333;
   font-size: 12px;
   text-transform: capitalize;
 }
@@ -17182,7 +17182,7 @@ body.storelocator-index-index div#store-content {
 }
 body.storelocator-index-view div#store-content div.store-title,
 body.storelocator-index-index div#store-content div.store-title {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
@@ -17195,7 +17195,7 @@ body.storelocator-index-index div#store-content div.store-box ul#list-store {
 }
 body.storelocator-index-view div#store-content div.store-box ul#list-store li div.info p,
 body.storelocator-index-index div#store-content div.store-box ul#list-store li div.info p {
-  color: #635546;
+  color: #333;
 }
 body.storelocator-index-view div#store-content div.store-box ul#list-store li div.info p.store-contact-info,
 body.storelocator-index-index div#store-content div.store-box ul#list-store li div.info p.store-contact-info {
@@ -17214,7 +17214,7 @@ body.storelocator-index-index div#store-content div.store-box ul#list-store li p
 body.storelocator-index-view div#store-content div.store-box ul#list-store li p.store_detail a,
 body.storelocator-index-index div#store-content div.store-box ul#list-store li p.store_detail a {
   background: #cfc9c3;
-  color: #635546;
+  color: #333;
   float: left;
   font-size: 14px;
   padding: 4% .5% 2%;
@@ -17257,7 +17257,7 @@ body.storelocator-index-index div#store-content div.store-box ul#list-store li d
   border: none;
   padding: 0;
   font-size: 8pt;
-  color: #635546;
+  color: #333;
   text-transform: uppercase;
 }
 body.storelocator-index-view div#store-content div.store-box ul#list-store li div.time-schedule div.time-schedule-row div.day-period,
@@ -17275,7 +17275,7 @@ body.storelocator-index-view div#store-content div.store-box ul#list-store li di
 body.storelocator-index-index div#store-content div.store-box ul#list-store li div.time-schedule p.store-hours-head {
   font-size: 15px;
   margin-top: 15px;
-  color: #635546;
+  color: #333;
 }
 body.storelocator-index-view div#store-content div.store-box ul#list-store li input.store_list_go,
 body.storelocator-index-index div#store-content div.store-box ul#list-store li input.store_list_go {
@@ -17325,7 +17325,7 @@ body.storelocator-index-index div#wapstore div.locator-main-outer img {
 }
 body.storelocator-index-view div#wapstore p.store-locator-title,
 body.storelocator-index-index div#wapstore p.store-locator-title {
-  color: #635546;
+  color: #333;
 }
 body.storelocator-index-view div#wapstore div.store-locator-view-detail,
 body.storelocator-index-index div#wapstore div.store-locator-view-detail {
@@ -17337,7 +17337,7 @@ body.storelocator-index-index div#wapstore div.days-description {
 }
 body.storelocator-index-view div#wapstore div#mapwap span#description label,
 body.storelocator-index-index div#wapstore div#mapwap span#description label {
-  background: #635546;
+  background: #333;
   color: #ffffff;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -17358,7 +17358,7 @@ body.storelocator-index-index div#wapstore div#mapwap span#description div {
 }
 body.storelocator-index-view div#wapstore div#mapwap span#description p,
 body.storelocator-index-index div#wapstore div#mapwap span#description p {
-  color: #635546;
+  color: #333;
   margin-bottom: 15px;
 }
 body.storelocator-index-view div#wapstore div#mapwap span#description p span,
@@ -17450,7 +17450,7 @@ body.storelocator-index-index div p.store-tag {
 }
 
 .wap_description span#description label {
-  background: #635546;
+  background: #333;
   color: #ffffff;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -17491,7 +17491,7 @@ body.storelocator-index-index div p.store-tag {
   }
 }
 .wap_description span#description p {
-  color: #635546;
+  color: #333;
   margin-bottom: 15px;
 }
 .wap_description span#description p span {
@@ -17717,7 +17717,7 @@ p.store_name {
   display: inline-block;
 }
 .tier1 > ul li a {
-  color: #635546;
+  color: #333;
 }
 .tier1 > ul li.view-all {
   border-top: 1px solid #f3f1f0;
@@ -17727,7 +17727,7 @@ p.store_name {
   width: 100%;
 }
 .tier1 > ul li.view-all a {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
@@ -17796,7 +17796,7 @@ a.view-all {
   font-size: 20px;
 }
 #lcg_mybuys-wrapper .border {
-  border-top: 2px solid #635546;
+  border-top: 2px solid #333;
   float: left;
   height: 2px;
   margin-left: 2%;
@@ -17847,20 +17847,20 @@ a.view-all {
   margin: 10px 0;
 }
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productnamecontainer a {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 13px;
   text-transform: none;
 }
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productpricecontainer a {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
 }
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productbasepricecontainer a,
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productsalepricecontainer a {
-  color: #635546;
+  color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
