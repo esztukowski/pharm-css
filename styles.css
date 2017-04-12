@@ -1574,13 +1574,13 @@ select,
 table,
 textarea {
   font-family: Helvetica, Arial, sans-serif;
-  color: #8A7967;
+  color: #333;
   font-size: 12px;
   line-height: 1.5;
 }
 
 a {
-  color: #8A7967;
+  color: #333;
   text-decoration: none;
 }
 
@@ -2399,7 +2399,7 @@ a.button:hover {
 }
 
 .breadcrumbs li {
-  color: #8A7967;
+  color: #333;
   float: left;
   font-size: 11px;
   font-family: Helvetica, Arial, sans-serif;
@@ -2408,7 +2408,7 @@ a.button:hover {
 }
 
 .breadcrumbs a {
-  color: #8A7967;
+  color: #333;
   float: left;
   text-decoration: underline;
 }
@@ -3423,7 +3423,7 @@ span.weee {
 .toolbar,
 .pager {
   font-family: Helvetica, Arial, sans-serif;
-  color: #8A7967;
+  color: #333;
   line-height: 30px;
   font-size: 12px;
 }
@@ -6930,7 +6930,7 @@ h3.product-name a,
 h4.product-name a,
 h5.product-name a,
 p.product-name a {
-  color: #8A7967;
+  color: #333;
 }
 h2.product-name a:hover,
 h3.product-name a:hover,
@@ -7548,7 +7548,7 @@ p.product-name a:hover {
   }
 }
 .category-products ul.products-grid > li {
-  border: 1px solid #cfc9c3;
+  border: 1px solid #bdbdbd;
 }
 .category-products ul.products-grid > li span.bttrlazyloading-wrapper {
   display: block;
@@ -8832,7 +8832,7 @@ p.product-name a:hover {
   clear: both;
 }
 .block-layered-nav .block-content > dl#narrow-by-list {
-  border: 1px solid #cfc9c3;
+  border: 1px solid #bdbdbd;
   clear: left;
   float: left;
   padding: 0;
@@ -8871,7 +8871,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd li a {
   font: 12px Arial, sans-serif;
-  color: #8A7967;
+  color: #333;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd li a span.count, .block-layered-nav .block-content > dl#narrow-by-list dd li a span {
   font: 12px Arial, sans-serif;
