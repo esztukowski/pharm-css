@@ -3401,8 +3401,8 @@ span.weee {
 .toolbar {
   margin-top: 10px;
   margin-bottom: 15px;
-  border-bottom: 1px solid #CCCCCC;
-  border-top: 1px solid #CCCCCC;
+  border-bottom: 1px solid #f0f0f0;
+  border-top: 1px solid #f0f0f0;
   background: transparent;
   padding: 5px 10px 0px 10px;
 }
@@ -3552,7 +3552,7 @@ span.weee {
 .pages a,
 .pages .current {
   display: inline-block;
-  border: 1px solid #CCCCCC;
+  border: 1px solid #f0f0f0;
   font-size: 11px;
   text-align: center;
   text-transform: uppercase;
@@ -7060,7 +7060,7 @@ p.product-name a:hover {
 }
 .category-products .toolbar,
 .category-products .toolbar-bottom {
-  background: #cfc9c3;
+  background: #f0f0f0;
 }
 @media only screen and (max-width: 768px) {
   .category-products .toolbar,
@@ -7236,7 +7236,7 @@ p.product-name a:hover {
 }
 .category-products .toolbar div.pager div.count-container div.limiter .styled-select,
 .category-products .toolbar-bottom div.pager div.count-container div.limiter .styled-select {
-  border: 1px solid #cfc9c3;
+  border: 1px solid #f0f0f0;
   overflow: hidden;
   width: 60%;
   float: left;
@@ -7458,7 +7458,7 @@ p.product-name a:hover {
   }
 }
 .category-products div.sort-mobile-placeholder {
-  border-top: 1px solid #cfc9c3;
+  border-top: 1px solid #f0f0f0;
   display: inline-block;
   padding-top: 15px;
   width: 100%;
@@ -8840,7 +8840,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content > dl#narrow-by-list > dt {
   border: 0;
-  border-bottom: 1px solid #CCCCCC;
+  border-bottom: 1px solid #f0f0f0;
   color: #333;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
@@ -8850,17 +8850,16 @@ p.product-name a:hover {
 }
 @media only screen and (min-width: 769px) {
   .block-layered-nav .block-content > dl#narrow-by-list > dt {
-    background: url("../images/clp_leftCol_arrow_up.png") no-repeat 96% center #cfc9c3;
+    background: url("../images/clp_leftCol_arrow_up.png") no-repeat 96% center #f0f0f0;
   }
   .block-layered-nav .block-content > dl#narrow-by-list > dt:hover {
-    background: url("../images/clp_leftCol_arrow_up.png") no-repeat 96% center #cfc9c3;
   }
 }
 .block-layered-nav .block-content > dl#narrow-by-list > dt.current {
-  background: url("../images/clp_leftCol_arrow_up.png") no-repeat 96% center #cfc9c3;
+  background: url("../images/clp_leftCol_arrow_up.png") no-repeat 96% center #f0f0f0;
 }
 .block-layered-nav .block-content > dl#narrow-by-list > dt.close {
-  background: url("../images/clp_leftCol_arrow_down.png") no-repeat 96% center #cfc9c3;
+  background: url("../images/clp_leftCol_arrow_down.png") no-repeat 96% center #f0f0f0;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd {
   border: 0;
