@@ -8853,6 +8853,7 @@ p.product-name a:hover {
     background: url("../images/clp_leftCol_arrow_up.png") no-repeat 96% center #f0f0f0;
   }
   .block-layered-nav .block-content > dl#narrow-by-list > dt:hover {
+    background: url("../images/clp_leftCol_arrow_up.png") no-repeat 96% center #F0F0F0;
   }
 }
 .block-layered-nav .block-content > dl#narrow-by-list > dt.current {
