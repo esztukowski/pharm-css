@@ -362,7 +362,7 @@ body .promos > li {
   top: 10%;
   font-weight: 500;
   font-size: 20px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   text-shadow: 1px 1px 3px #555555;
 }
 
@@ -515,7 +515,7 @@ body .promos > li {
 }
 #home-top-categories .container ul li h3 a {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   text-transform: none;
 }
@@ -528,7 +528,7 @@ body .promos > li {
 }
 #home-top-categories .container ul li .price-box span {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
 }
@@ -696,7 +696,7 @@ body .promos > li {
   background: #ffffff;
   clear: left;
   float: right;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   padding-left: 10px;
   position: relative;
@@ -855,7 +855,7 @@ body .promos > li {
   background: #adbf51;
   border-radius: 5px;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   max-width: 30%;
@@ -863,7 +863,7 @@ body .promos > li {
 }
 #home-bottom #home-blog ul li .right a {
   color: c-primary;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   text-decoration: underline;
@@ -1020,7 +1020,7 @@ body .promos > li {
   color: #FFFFFF;
   position: absolute;
   background-color: #7B7C7B;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 17px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1573,7 +1573,7 @@ input,
 select,
 table,
 textarea {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   color: #333;
   font-size: 12px;
   line-height: 1.5;
@@ -1614,14 +1614,14 @@ h1, .h1 {
   padding: 0;
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 25px;
   margin: 0 0 0.7em 0;
 }
 
 h2, .h2 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1637,7 +1637,7 @@ h2, .h2 {
 
 h3, .h3 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1653,7 +1653,7 @@ h3, .h3 {
 
 h4, .h4 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1669,7 +1669,7 @@ h4, .h4 {
 
 h5, .h5 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1685,7 +1685,7 @@ h5, .h5 {
 
 h6, .h6 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1739,7 +1739,7 @@ h6, .h6 {
 .ampreorder_note {
   background: none;
   color: #e56066;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: .5px;
@@ -1766,7 +1766,7 @@ h6, .h6 {
 .availability .value {
   background: #a0ba1c;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: .5px;
@@ -1779,7 +1779,7 @@ h6, .h6 {
  */
 .page-title h1,
 .page-title h2 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
   color: #333;
@@ -1792,7 +1792,7 @@ h6, .h6 {
 .product-name h1,
 .product-name .h1 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1827,7 +1827,7 @@ h6, .h6 {
 .block-title h2,
 .block-title h3 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -1845,7 +1845,7 @@ h6, .h6 {
   font-weight: 600;
 }
 .block-title strong {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
   color: #333;
@@ -1884,7 +1884,7 @@ h6, .h6 {
   margin: 0 0 0.625em 0;
   text-transform: uppercase;
   font-weight: normal;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 1px;
 }
@@ -1961,7 +1961,7 @@ body:not(.customer-account) .block:first-child .block-title {
   }
   .sidebar .block:not(.block-layered-nav) .block-title > strong {
     color: #333;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     line-height: auto;
@@ -2003,7 +2003,7 @@ body:not(.customer-account) .block:first-child .block-title {
   }
   .sidebar .block:not(.block-layered-nav) .block-title.active > strong {
     color: #333;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     line-height: auto;
@@ -2061,7 +2061,7 @@ body:not(.customer-account) .block:first-child .block-title {
 .block-account li,
 .block-cms-menu li {
   text-transform: uppercase;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   margin: 7px 0;
 }
 .block-account li strong,
@@ -2154,7 +2154,7 @@ form .buttons-set .button:focus {
   color: #ffffff;
   font-size: 13px;
   font-weight: normal;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   line-height: 19px;
   text-align: center;
   text-transform: uppercase;
@@ -2233,7 +2233,7 @@ a.button:hover {
   text-transform: uppercase;
   display: inline-block;
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .button2 span:hover,
 .button2 span span:hover {
@@ -2402,7 +2402,7 @@ a.button:hover {
   color: #333;
   float: left;
   font-size: 11px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   text-decoration: underline;
   text-transform: capitalize;
 }
@@ -2471,7 +2471,7 @@ a.button:hover {
   line-height: 20px;
   width: 100%;
   font-size: 10px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 .btn-remove:hover:after {
@@ -2815,7 +2815,7 @@ a.button:hover {
   text-align: center;
   margin: 10px;
   text-transform: uppercase;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 /* -------------------------------------------- *
@@ -3029,7 +3029,7 @@ a.button:hover {
  */
 .price-box {
   margin: 7px 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 .price-box p {
@@ -3042,19 +3042,19 @@ a.button:hover {
 
 .price-box .price {
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
 
 .price-box .price,
 .price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 .price-box .price-label {
   color: #cfc9c3;
   white-space: nowrap;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 .price-box .minimal-price-link {
@@ -3081,14 +3081,14 @@ a.button:hover {
 .price-box .old-price .price,
 .price-box .special-price .price {
   color: #e56066;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   display: inline-block;
 }
 
 .price-box .old-price .price {
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   text-decoration: line-through;
 }
@@ -3146,7 +3146,7 @@ span.weee {
  * ============================================ */
 .item-options {
   font-size: 14px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .item-options:after {
   content: '';
@@ -3330,7 +3330,7 @@ span.weee {
 }
 .ratings .rating-links a {
   color: #7a8e13;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   text-decoration: underline;
 }
@@ -3343,7 +3343,7 @@ span.weee {
  */
 .std p {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: normal;
@@ -3422,7 +3422,7 @@ span.weee {
 
 .toolbar,
 .pager {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   color: #333;
   line-height: 30px;
   font-size: 12px;
@@ -3430,7 +3430,7 @@ span.weee {
 
 .toolbar label,
 .pager-no-toolbar label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
 }
@@ -3515,7 +3515,7 @@ span.weee {
 }
 .pager .amount {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   white-space: nowrap;
   margin: 0 15px 0 0;
 }
@@ -3563,7 +3563,7 @@ span.weee {
   height: 30px;
   padding: 0;
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   margin-left: 4px;
 }
 
@@ -3964,7 +3964,7 @@ ul#travel-modes li.walking label:focus {
   box-shadow: rgba(0, 0, 0, 0.98) 0 1px 0 0;
   background-color: #EEE;
   border: 1px solid #999;
-  font-family: Helvetica, Arial, Sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: .9em;
   font-weight: 700;
   padding: 2px 6px;
@@ -4014,7 +4014,7 @@ ul#travel-modes li.walking label:focus {
 
 form .legend {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -4087,7 +4087,7 @@ li.centinel-logos div.input-box img {
 label {
   display: inline-block;
   font-size: 11px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
   -moz-user-select: none;
@@ -4102,7 +4102,7 @@ span.required:after {
   content: ' *';
   color: #333;
   font-weight: normal;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
 
@@ -4125,7 +4125,7 @@ span.required em {
 select {
   border: 1px solid #cfc9c3;
   font-size: 11px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   padding: 12px;
   text-transform: uppercase;
   -webkit-appearance: none;
@@ -4167,7 +4167,7 @@ textarea {
   border: 1px solid #cccccc;
   background: #ffffff;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
 }
 .input-text:focus {
@@ -4289,7 +4289,7 @@ p.required,
 .validation-advice {
   margin: 5px 0 0;
   color: #DF280A;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
 }
 
@@ -4422,7 +4422,7 @@ p.required,
 
 form .form-instructions {
   font-style: italic;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   color: #8A7967;
 }
@@ -4450,7 +4450,7 @@ form .form-instructions {
 .data-table th {
   background: #d9d9d9;
   text-transform: uppercase;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 1.4;
 }
@@ -4466,7 +4466,7 @@ form .form-instructions {
 
 .data-table tbody td,
 .data-table tfoot td {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 .data-table tfoot tr {
@@ -4576,7 +4576,7 @@ form .form-instructions {
   .linearize-table tbody td[data-rwd-label]:before {
     content: attr(data-rwd-label) ":";
     font-size: 12px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     padding-right: 5px;
     text-transform: uppercase;
   }
@@ -4659,7 +4659,7 @@ form .form-instructions {
   .linearize-table-large tbody td[data-rwd-label]:before {
     content: attr(data-rwd-label) ":";
     font-size: 12px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     padding-right: 5px;
     text-transform: uppercase;
   }
@@ -4748,7 +4748,7 @@ body {
   width: auto;
 }
 .page-header-container .additional-links ul li a {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   text-transform: uppercase;
@@ -4896,7 +4896,7 @@ body {
 }
 .header-language-container,
 .page-header {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 /* ============================================ *
@@ -4937,7 +4937,7 @@ body {
   background: none repeat scroll 0 0 #adbf51;
   border-radius: 5px;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   height: auto;
@@ -4972,7 +4972,7 @@ body {
 }
 .skip-link .label {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
@@ -5014,7 +5014,7 @@ body {
 }
 .skip-cart .label {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   letter-spacing: .06em;
 }
@@ -5060,7 +5060,7 @@ body {
 
 .welcome-msg {
   float: right;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   margin-right: 30px;
   margin-top: 11px;
@@ -5481,7 +5481,7 @@ a.skip-link:hover span.count:hover {
 }
 #header-promo-bar span {
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   font-weight: bold;
   letter-spacing: 1px;
@@ -5578,7 +5578,7 @@ a.skip-link:hover span.count:hover {
   display: block;
   color: #ffffff;
   line-height: 30px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .nav-primary li {
   position: relative;
@@ -5611,7 +5611,7 @@ a.skip-link:hover span.count:hover {
 }
 .nav-primary li.level0 > a {
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
   min-height: 46px;
   padding-top: 6px;
@@ -5673,7 +5673,7 @@ a.skip-link:hover span.count:hover {
   }
   .nav-primary li.level0 ul li a {
     color: #333;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: bold;
     margin-top: 0;
@@ -5798,7 +5798,7 @@ a.skip-link:hover span.count:hover {
   }
   .nav-primary li.level0 > a {
     color: #ffffff;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-weight: bold;
     font-size: 13px;
     text-transform: uppercase;
@@ -5967,7 +5967,7 @@ a.skip-link:hover span.count:hover {
   letter-spacing: 1px;
   padding-right: 40px;
   padding-top: 3px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 #search::-webkit-input-placeholder {
@@ -6159,7 +6159,7 @@ a.skip-link:hover span.count:hover {
   background: none repeat scroll 0 0 #adbf51;
   border-radius: 5px;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   height: auto;
@@ -6235,7 +6235,7 @@ a.skip-link:hover span.count:hover {
 /* Subtotal */
 .cart-menu .subtotal {
   padding: 0 15px 15px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 24px;
   line-height: 1.2;
 }
@@ -6290,7 +6290,7 @@ a.skip-link:hover span.count:hover {
  */
 .footer,
 .footer button {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 .footer {
@@ -6314,7 +6314,7 @@ a.skip-link:hover span.count:hover {
 }
 .footer .block-title strong {
   border-bottom: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 .footer .block-title,
@@ -6419,7 +6419,7 @@ a.skip-link:hover span.count:hover {
   -webkit-border-radius: 0;
   border-radius: 0;
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   height: 38px;
@@ -6430,7 +6430,7 @@ a.skip-link:hover span.count:hover {
 }
 .footer .block-subscribe .block-content .instructions {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   margin-top: 10px;
@@ -6451,7 +6451,7 @@ a.skip-link:hover span.count:hover {
   border: 0;
   color: #ffffff;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   height: 38px;
   line-height: 27px;
@@ -6551,7 +6551,7 @@ a.skip-link:hover span.count:hover {
 }
 .footer-container #footer-top-block ul li a {
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   text-transform: uppercase;
@@ -6655,12 +6655,12 @@ a.skip-link:hover span.count:hover {
   clear: both;
 }
 .footer-container #footer-middle-block .block-title strong {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   text-transform: uppercase;
 }
 .footer-container #footer-middle-block .block-title h4 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   text-transform: uppercase;
   color: #333;
@@ -6722,7 +6722,7 @@ a.skip-link:hover span.count:hover {
 }
 .footer-container #footer-middle-block .right #footer-copyright {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   margin-top: 30px;
@@ -6789,7 +6789,7 @@ a.skip-link:hover span.count:hover {
     padding: 0 20px 15px;
   }
   .footer-container #footer-middle-block .left .block-title strong {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
   }
   .footer-container #footer-middle-block .right {
     border-top: 0;
@@ -6865,7 +6865,7 @@ a.skip-link:hover span.count:hover {
 
 #footer-customer-service {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   width: 75%;
 }
@@ -6875,7 +6875,7 @@ a.skip-link:hover span.count:hover {
   clear: both;
   color: #c1b7ad;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 9px;
   font-weight: bold;
   line-height: 15px;
@@ -6921,7 +6921,7 @@ h4.product-name,
 h5.product-name,
 p.product-name {
   font-size: 12px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: auto;
 }
@@ -6945,7 +6945,7 @@ p.product-name a:hover {
 .products-list .product-name {
   margin: 0;
   font-size: 12px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   line-height: 16px;
   height: 50px;
@@ -7206,7 +7206,7 @@ p.product-name a:hover {
 .category-products .toolbar div.pager div.count-container p.amount,
 .category-products .toolbar-bottom div.pager div.count-container p.amount {
   float: right;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   margin-bottom: 0;
@@ -7228,7 +7228,7 @@ p.product-name a:hover {
 .category-products .toolbar div.pager div.count-container div.limiter label,
 .category-products .toolbar-bottom div.pager div.count-container div.limiter label {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   margin-top: 7px;
@@ -7559,7 +7559,7 @@ p.product-name a:hover {
   margin-top: 10px;
 }
 .category-products ul.products-grid > li div.product-info h2.product-name a {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   text-transform: none;
 }
@@ -7569,7 +7569,7 @@ p.product-name a:hover {
   }
 }
 .category-products ul.products-grid > li div.product-info div.price-box span.price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
 }
@@ -7591,7 +7591,7 @@ p.product-name a:hover {
 .category-products ul.products-grid > li div.product-info div.price-box .savings {
   color: #e56066;
   display: inline-block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-style: italic;
   font-weight: normal;
@@ -7602,7 +7602,7 @@ p.product-name a:hover {
 }
 .category-products ul.products-grid > li div.product-info div.actions a.button,
 .category-products ul.products-grid > li div.product-info div.actions button.btn-cart {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   padding: 8px 0;
   width: 90%;
@@ -7666,7 +7666,7 @@ p.product-name a:hover {
 }
 
 .cat_landing_title {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   height: 50px;
   margin: 8px 0 2px 0;
@@ -7727,7 +7727,7 @@ p.product-name a:hover {
 .subcategories ul li a div span {
   background: url("../images/icon_clp_brands_title.jpg") no-repeat right 0 #ffffff;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 1px;
   line-height: 16px;
@@ -7791,7 +7791,7 @@ p.product-name a:hover {
 #clp_landing_blog_mobile .header-container h5 {
   background: #ffffff;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   padding-right: 2%;
   position: absolute;
@@ -7810,7 +7810,7 @@ p.product-name a:hover {
   border-bottom: 1px solid #ffffff;
   color: #ffffff;
   cursor: pointer;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
   letter-spacing: 1px;
@@ -7841,7 +7841,7 @@ p.product-name a:hover {
   background: #adbf51;
   border-radius: 5px;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   max-width: 30%;
@@ -7850,7 +7850,7 @@ p.product-name a:hover {
 #clp_landing_blog_mobile dd ul li .right a {
   color: c-primary;
   display: inline-block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   text-decoration: underline;
@@ -7900,7 +7900,7 @@ p.product-name a:hover {
 .clp_landing_blog .container .header-container h5 {
   background: #ffffff;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   padding-right: 2%;
   position: absolute;
@@ -7929,7 +7929,7 @@ p.product-name a:hover {
 }
 .clp_landing_blog .container .content-container .left div h2 {
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   letter-spacing: 1px;
 }
@@ -7938,7 +7938,7 @@ p.product-name a:hover {
   padding: 15px;
 }
 .clp_landing_blog .container .content-container .left ul li {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   margin-bottom: 6px;
@@ -8004,7 +8004,7 @@ p.product-name a:hover {
   background: #adbf51;
   border-radius: 5px;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
   max-width: 30%;
@@ -8013,7 +8013,7 @@ p.product-name a:hover {
 .clp_landing_blog .container .content-container .right .content-container .right a {
   color: c-primary;
   display: inline-block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   text-decoration: underline;
@@ -8110,7 +8110,7 @@ p.product-name a:hover {
 }
 #clp_landing_recommended .container ul li h3 a {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   text-transform: none;
 }
@@ -8123,7 +8123,7 @@ p.product-name a:hover {
 }
 #clp_landing_recommended .container ul li .price-box span {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
 }
@@ -8239,7 +8239,7 @@ p.product-name a:hover {
   }
   #clp_landing_recommended .container h5 {
     background: #ffffff;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-size: 15px;
     padding-right: 2%;
     position: absolute;
@@ -8272,12 +8272,12 @@ p.product-name a:hover {
 }
 .seo_content {
   margin: 25px 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: normal;
 }
 .seo_content h2 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 1px;
   margin-bottom: 0;
@@ -8635,7 +8635,7 @@ p.product-name a:hover {
  * Layered Navigation
  * ============================================ */
 .block-layered-nav .block-title span {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 15px;
 }
 
@@ -8664,7 +8664,7 @@ p.product-name a:hover {
   border-style: solid;
   border-color: #CCCCCC;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   margin-bottom: 0px;
@@ -8686,7 +8686,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content > dl > dt {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -8726,7 +8726,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content > dl > dt span {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
 }
@@ -8754,7 +8754,7 @@ p.product-name a:hover {
   clear: left;
   color: #8A7967;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: 1px;
@@ -8800,7 +8800,7 @@ p.product-name a:hover {
 .block-layered-nav .block-content p {
   border-bottom: 0;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: normal;
   letter-spacing: 1px;
@@ -8811,7 +8811,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content p.block-subtitle--filter {
   border-bottom: 1px solid #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   margin-bottom: 0;
 }
@@ -8842,7 +8842,7 @@ p.product-name a:hover {
   border: 0;
   border-bottom: 1px solid #f0f0f0;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
   margin: 1.5% 1.5% 0 1.5%;
@@ -8899,7 +8899,7 @@ p.product-name a:hover {
 .block-layered-nav .block-content > dl#narrow-by-list dd a.amshopby-attr-selected {
   background-image: url("../images/custom_input_checked.jpg");
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
   margin-left: 15px;
@@ -8911,7 +8911,7 @@ p.product-name a:hover {
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd a.amshopby-attr,
 .block-layered-nav .block-content > dl#narrow-by-list dd a.amshopby-price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
 .block-layered-nav .block-content > dl#narrow-by-list dd a {
@@ -9055,7 +9055,7 @@ p.product-name a:hover {
   .block-layered-nav #narrow-by-list dd ol li a,
   .block-layered-nav #narrow-by-list2 dd ol li a {
     background-color: transparent;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-size: 12px;
     margin-left: 65px;
     padding-left: 25px;
@@ -9094,7 +9094,7 @@ p.product-name a:hover {
 .block-layered-nav .currently .block-subtitle {
   display: block;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -9499,7 +9499,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-essential .product-essentials-bottom .right .box-title h2 {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
 .product-view .product-essential .product-essentials-bottom .right .box-title .border {
@@ -9515,7 +9515,7 @@ body.amshopby-index-index div.banner img.mobile {
   }
 }
 .product-view .product-essential .product-essentials-bottom .right .box-related .price-box .price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
 }
@@ -9565,7 +9565,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-essential .product-essentials-bottom .right ul li .product-name {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
   margin-top: 10px;
   min-height: 55px;
@@ -9606,7 +9606,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .product-name h1 {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 25px;
   font-weight: normal;
   line-height: 27px;
@@ -9646,7 +9646,7 @@ body.amshopby-index-index div.banner img.mobile {
   clear: both;
   padding-bottom: 18px;
   border-bottom: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .product-view .product-shop .short-description a {
   color: #333;
@@ -9696,7 +9696,7 @@ body.amshopby-index-index div.banner img.mobile {
 .product-view .product-shop .price-box .regular-price .price,
 .product-view .product-shop .price-box .special-price .price,
 .product-view .product-shop .price-box .full-product-price .price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 22px;
   font-weight: normal;
 }
@@ -9711,7 +9711,7 @@ body.amshopby-index-index div.banner img.mobile {
   color: #333;
   display: block;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 22px;
   margin-right: 10px;
 }
@@ -9723,7 +9723,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .product-shop .price-box .special-price .price {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 22px;
 }
 @media only screen and (max-width: 785px) {
@@ -9754,7 +9754,7 @@ body.amshopby-index-index div.banner img.mobile {
 .product-view .product-shop .shipping-msg {
   color: #75bfcd;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   margin-top: 2px;
@@ -9767,7 +9767,7 @@ body.amshopby-index-index div.banner img.mobile {
 .product-view .product-shop .configurable-pricing .price {
   font-size: 22px;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .product-view .product-shop .configurable-product-sku {
   clear: both;
@@ -9837,7 +9837,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-view .price-box .old-price span {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 22px;
 }
 @media only screen and (max-width: 785px) {
@@ -9849,7 +9849,7 @@ body.amshopby-index-index div.banner img.mobile {
   color: #e56066;
   display: block;
   float: right;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 22px;
   line-height: 1.2;
 }
@@ -10478,14 +10478,14 @@ body.amshopby-index-index div.banner img.mobile {
 .product-collateral.toggle-content dl dd {
   border: 1px solid #cfc9c3;
   border-top: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
 }
 .product-collateral.toggle-content dl dd div.tab-content {
   font-size: 14px;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 .product-collateral.toggle-content dl dd div.tab-content p {
@@ -10497,7 +10497,7 @@ body.amshopby-index-index div.banner img.mobile {
 .product-collateral.toggle-content dl dd div.tab-content a {
   font-size: 14px;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-decoration: underline;
 }
@@ -10643,7 +10643,7 @@ body.amshopby-index-index div.banner img.mobile {
   }
   .product-collateral > dl > dt {
     color: #333;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     line-height: auto;
@@ -10682,7 +10682,7 @@ body.amshopby-index-index div.banner img.mobile {
   }
   .product-collateral > dl > dt span {
     color: #333;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: bold;
   }
@@ -10760,7 +10760,7 @@ body.amshopby-index-index div.banner img.mobile {
     display: block;
   }
   .product-img-box .product-name h1 {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-size: 18px;
     text-transform: none;
   }
@@ -10843,7 +10843,7 @@ body.amshopby-index-index div.banner img.mobile {
 .grouped-items-table .name-wrapper {
   color: #8A7967;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   margin-top: 7px;
   width: 45%;
@@ -10879,7 +10879,7 @@ body.amshopby-index-index div.banner img.mobile {
 .grouped-items-table .qty-wrapper input {
   clear: left;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   height: 4.2em;
   width: 4.2em;
@@ -10924,23 +10924,23 @@ body.amshopby-index-index div.banner img.mobile {
   }
 }
 .grouped-items-table .price-box .regular-price .price-label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
 .grouped-items-table .price-box .regular-price .price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
 .grouped-items-table .price-box .old-price {
   float: right;
 }
 .grouped-items-table .price-box .old-price .price-label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1;
 }
 .grouped-items-table .price-box .old-price .price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1;
 }
@@ -10963,7 +10963,7 @@ body.amshopby-index-index div.banner img.mobile {
 .grouped-items-table .price-box .savings {
   clear: right;
   float: right;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1;
 }
@@ -10974,7 +10974,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .grouped-items-table .availability span {
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: .5px;
@@ -10991,7 +10991,7 @@ body.amshopby-index-index div.banner img.mobile {
   color: #e56066;
   display: block;
   float: right;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: .5px;
@@ -11022,7 +11022,7 @@ body.amshopby-index-index div.banner img.mobile {
   padding-bottom: 20px;
 }
 #product-options-wrapper dt label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   text-transform: capitalize;
 }
@@ -11115,7 +11115,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .product-options dt label {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   text-transform: capitalize;
@@ -11158,7 +11158,7 @@ body.amshopby-index-index div.banner img.mobile {
   background: #e56066;
   color: #ffffff;
   display: inline-block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: .5px;
@@ -11323,7 +11323,7 @@ body.amshopby-index-index div.banner img.mobile {
 }
 .block-related .block-title h2 {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -11486,7 +11486,7 @@ body.amshopby-index-index div.banner img.mobile {
 .products-grid .shipping-msg {
   color: #75bfcd;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   margin-top: 2px;
@@ -11539,7 +11539,7 @@ div#product_facts p {
 
 dl#collateral-tabs .tab-content table {
   font-size: 13px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   color: #333;
 }
 dl#collateral-tabs .tab-content table td {
@@ -11771,7 +11771,7 @@ div.block-compare div.block-title strong {
   border-bottom: 0;
 }
 div.block-compare div.block-title strong span {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
 }
@@ -11814,13 +11814,13 @@ div.block-compare div.block-content ol#compare-items li p {
   width: 60%;
 }
 div.block-compare div.block-content ol#compare-items li p a {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
 }
 div.block-compare .actions a {
   color: #006E83;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   text-decoration: underline;
@@ -12135,7 +12135,7 @@ div.block-compare .actions .button:hover {
   }
 }
 .cart-table {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .cart-table th,
 .cart-table td,
@@ -12151,7 +12151,7 @@ div.block-compare .actions .button:hover {
 }
 .cart-table thead th,
 .cart-table tbody td {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   padding: 10px 12px;
 }
@@ -12177,7 +12177,7 @@ div.block-compare .actions .button:hover {
   font-size: 9px;
   padding: 0 5px;
   text-transform: uppercase;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .cart-table .product-cart-image .cart-links,
 .cart-table .product-cart-info .btn-remove,
@@ -12207,7 +12207,7 @@ div.block-compare .actions .button:hover {
   }
 }
 .cart-table .product-cart-sku {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 12px;
   margin: 5px 0 12px;
@@ -12345,7 +12345,7 @@ div.block-compare .actions .button:hover {
   .cart-table td[data-rwd-label]:before {
     content: attr(data-rwd-label) ":";
     font-size: 12px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     padding-right: 5px;
     text-transform: uppercase;
   }
@@ -12434,7 +12434,7 @@ div.block-compare .actions .button:hover {
   .cart-table .product-cart-price:before {
     font-weight: 500;
     font-size: 15px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
   }
   .cart-table .cart-footer-actions {
     text-align: center;
@@ -12510,7 +12510,7 @@ div.block-compare .actions .button:hover {
   margin-top: 4px;
 }
 .shipping .form-list label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: 400;
   text-transform: uppercase;
@@ -12524,13 +12524,13 @@ div.block-compare .actions .button:hover {
   margin-bottom: 10px;
 }
 .shipping .sp-methods label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-style: italic;
   min-width: 100px;
 }
 .shipping .sp-methods label span {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
 }
@@ -12579,7 +12579,7 @@ div.block-compare .actions .button:hover {
   clear: both;
 }
 .cart .cart-totals table {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -12607,7 +12607,7 @@ div.block-compare .actions .button:hover {
 }
 .cart .cart-totals table tfoot strong span,
 .cart .cart-totals table tfoot span.price {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .cart .cart-totals table tfoot strong {
   font-weight: 400;
@@ -12640,7 +12640,7 @@ div.block-compare .actions .button:hover {
 }
 #discount-coupon-form label,
 .cart .giftcard label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: 400;
   text-align: left;
@@ -13144,7 +13144,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 .block-progress dt {
   padding-top: 6px;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: auto;
@@ -13184,7 +13184,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 .block-progress dd {
   padding-left: 15px;
   margin-bottom: 10px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
 }
 @media only screen and (max-width: 768px) {
@@ -13202,7 +13202,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
   padding: 0;
   margin: 0 0 3px 0;
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   text-transform: none;
   font-style: italic;
   float: left;
@@ -13448,7 +13448,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 .checkout-review-table tbody tr th {
   background: #ffffff;
   text-transform: uppercase;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 1.4;
   border-bottom: 1px solid #CCC;
@@ -13691,7 +13691,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 }
 .product-view .product-options .swatch-attr label {
   display: block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.3;
@@ -13713,7 +13713,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
   color: #e56066;
 }
 .product-view .product-options dt label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   text-transform: uppercase;
@@ -13812,7 +13812,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 
 .opc #opc-login p:not(.required) {
   font-style: italic;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
 }
 
@@ -13834,7 +13834,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
   display: block;
 }
 .remember-me-popup p {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .remember-me-popup .remember-me-popup-close {
   position: absolute;
@@ -13937,7 +13937,7 @@ body.customer-account .data-table {
   margin-top: 5px;
 }
 body.customer-account .data-table td a {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-style: normal;
   font-size: 13px;
@@ -14043,7 +14043,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .dashboard .box-account p,
 .dashboard .box-account address {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
 }
 .dashboard .box-account p a,
@@ -14111,7 +14111,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .dashboard .box-reviews li .details .ratings strong {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   margin-right: 5px;
 }
@@ -14124,7 +14124,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
  * Address Book
  * ============================================ */
 .my-account .addresses-list {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .my-account .addresses-list .col-1,
 .my-account .addresses-list .col-2 {
@@ -14233,7 +14233,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 
 .order-date {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
 }
 
@@ -14265,7 +14265,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .order-info-box .box-title h2 {
   font-size: 14px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
   line-height: 1.5;
 }
@@ -14274,11 +14274,11 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
 }
 .order-info-box .box-content {
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .order-info-box .box-content td,
 .order-info-box .box-content th {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   line-height: 1.3;
 }
 .order-info-box .box-content th {
@@ -14288,7 +14288,7 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
   padding-left: 15px;
 }
 .order-info-box .box-content strong {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
 }
@@ -14408,7 +14408,7 @@ ol#cart-sidebar-reorder p.product-name {
     margin-top: 0;
   }
   .dashboard div.welcome-msg {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     margin-bottom: 0;
   }
   .dashboard div.welcome-msg .hello {
@@ -14720,7 +14720,7 @@ div.paypal-logo span > img {
   margin-bottom: 0;
 }
 #customer-reviews .review-heading .pager .count-container .limiter label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 10px;
   text-transform: uppercase;
 }
@@ -14739,7 +14739,7 @@ div.paypal-logo span > img {
   color: #333;
 }
 #customer-reviews h3 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   text-transform: uppercase;
@@ -14753,7 +14753,7 @@ div.paypal-logo span > img {
 }
 #customer-reviews .fieldset h4 {
   border-bottom: 1px solid #CCCCCC;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   padding-bottom: 5px;
@@ -14763,7 +14763,7 @@ div.paypal-logo span > img {
   display: none;
 }
 #customer-reviews .fieldset .form-list {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   margin: 10px 0;
@@ -14798,7 +14798,7 @@ div.paypal-logo span > img {
   width: 470px;
 }
 #customer-reviews dl {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   margin-bottom: 10px;
@@ -14810,7 +14810,7 @@ div.paypal-logo span > img {
 }
 #customer-reviews dl dt a {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
   text-transform: none;
 }
@@ -14820,14 +14820,14 @@ div.paypal-logo span > img {
 #customer-reviews dl dd {
   border: 0;
   border-bottom: 1px solid #cfc9c3;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   margin: 10px 0;
   padding-bottom: 30px;
 }
 #customer-reviews dl dd .ratings-table {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   width: 100%;
 }
@@ -14843,7 +14843,7 @@ div.paypal-logo span > img {
 }
 #customer-reviews dl dd .review-meta {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   text-transform: none;
@@ -14893,7 +14893,7 @@ div.paypal-logo span > img {
  * Ratings - Global
  * ============================================ */
 .ratings-table {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
 }
@@ -14903,7 +14903,7 @@ div.paypal-logo span > img {
 .ratings-table .rating-label {
   color: #333;
   display: inline-block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
   position: relative;
@@ -15029,7 +15029,7 @@ div.paypal-logo span > img {
 }
 .review-product-list .product-view .product-shop .rating-review .rating-links a {
   color: #006E83;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   text-decoration: underline;
 }
@@ -15113,7 +15113,7 @@ div.paypal-logo span > img {
   user-select: none;
 }
 .slideshow-pager span {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   width: 44px;
   height: 44px;
   display: inline-block;
@@ -15219,7 +15219,7 @@ div.paypal-logo span > img {
 }
 
 .cycle-overlay {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -15237,7 +15237,7 @@ div.paypal-logo span > img {
   text-align: center;
 }
 #wishlist-table.clean-table {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
   width: 100%;
@@ -15250,13 +15250,13 @@ div.paypal-logo span > img {
   vertical-align: top;
 }
 #wishlist-table.clean-table thead th {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
 }
 #wishlist-table .product-name {
   font-size: 16px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
 }
@@ -15265,7 +15265,7 @@ div.paypal-logo span > img {
 }
 #wishlist-table .wishlist-sku {
   font-size: 11px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   margin: 5px 0;
 }
 #wishlist-table textarea {
@@ -15273,7 +15273,7 @@ div.paypal-logo span > img {
   width: 100%;
   height: 45px;
   font-size: 11px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 #wishlist-table textarea::-webkit-input-placeholder {
   text-transform: uppercase;
@@ -15347,7 +15347,7 @@ div.paypal-logo span > img {
   white-space: normal;
 }
 #wishlist-table .price-box {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
 #wishlist-table .price-box .price {
@@ -15582,7 +15582,7 @@ div.paypal-logo span > img {
 }
 .header-minicart .block-subtitle {
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 10px;
   font-weight: bold;
   line-height: 1.4;
@@ -15913,7 +15913,7 @@ div.paypal-logo span > img {
 .product-review .product-img-box p.label {
   border-bottom: 1px solid #CCCCCC;
   font-size: 16px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   margin-top: 20px;
   padding-bottom: 10px;
   text-transform: uppercase;
@@ -15926,11 +15926,11 @@ div.paypal-logo span > img {
   color: #3399CC;
   font-size: 16px;
   font-weight: 600;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   padding-bottom: 10px;
 }
 .product-review .ratings-table {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .product-review .ratings-table th {
   padding-right: 10px;
@@ -15945,14 +15945,14 @@ div.paypal-logo span > img {
   border-bottom: 1px solid #CCCCCC;
   font-size: 16px;
   font-weight: 400;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   margin-top: 20px;
   padding: 10px 0;
   text-transform: uppercase;
 }
 .product-review .ratings-description dd {
   color: #737373;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
 }
 
@@ -15992,7 +15992,7 @@ div.paypal-logo span > img {
 .cms-page-view .std p,
 .cms-no-route .std p {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.425em;
 }
@@ -16016,7 +16016,7 @@ div.paypal-logo span > img {
 .cms-page-view .std li,
 .cms-no-route .std li {
   color: #8A7967;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-style: italic;
   line-height: 24px;
@@ -16048,7 +16048,7 @@ div.paypal-logo span > img {
   list-style: none;
   margin-left: 0;
   font-style: normal;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 #accordion .toggle-tabs {
@@ -16078,7 +16078,7 @@ div.paypal-logo span > img {
   border-style: solid;
   border-color: #CCCCCC;
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   margin-bottom: 0px;
@@ -16096,7 +16096,7 @@ div.paypal-logo span > img {
 }
 #accordion > dl > dt span {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
 }
@@ -16169,7 +16169,7 @@ div.paypal-logo span > img {
  * ============================================ */
 .price-box .minimal-price-link .label {
   color: #e56066;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
 }
@@ -16717,7 +16717,7 @@ body[class*="checkout-multishipping-"] .checkout-progress > li {
   border-bottom: 1px solid #CCCCCC;
   border-right: 1px solid #CCCCCC;
   margin-bottom: 10px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 body[class*="checkout-multishipping-"] .checkout-progress > li.active {
   background-color: #DDDDDD;
@@ -16965,7 +16965,7 @@ body.storelocator-index-index div.main-container {
 body.storelocator-index-view div#store_search h2.legend,
 body.storelocator-index-index div#store_search h2.legend {
   border-bottom: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
 body.storelocator-index-view div#store_search form[name="store_search"],
@@ -16998,7 +16998,7 @@ body.storelocator-index-index div#store_search form[name="store_search"] li labe
 body.storelocator-index-index div#store_search form#store_search li label {
   color: #333;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: normal;
   text-transform: uppercase;
@@ -17010,7 +17010,7 @@ body.storelocator-index-index div#store_search form[name="store_search"] li inpu
 body.storelocator-index-index div#store_search form#store_search li input {
   clear: left;
   float: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
   height: 37px;
   width: 100%;
@@ -17097,14 +17097,14 @@ body.storelocator-index-index div.store-locator-tag .store-locator-span-tag {
   border: none;
   color: #333;
   font-size: 11px;
-  font-family: Helvetica, Arial, sans-sarif;
+  font-family: 'Raleway', Helvetica, Arial, sans-sarif;
   text-transform: uppercase;
 }
 @media only screen and (max-width: 768px) {
   body.storelocator-index-view div.store-locator-tag .store-locator-span-tag,
   body.storelocator-index-index div.store-locator-tag .store-locator-span-tag {
     background: #d0c9c3 url("../images/clp_filter_hb.png") no-repeat scroll 15px center;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
     font-size: 13px;
     padding: 13px 0 11px 53px;
     width: 100%;
@@ -17183,7 +17183,7 @@ body.storelocator-index-index div#store-content {
 body.storelocator-index-view div#store-content div.store-title,
 body.storelocator-index-index div#store-content div.store-title {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   text-transform: uppercase;
@@ -17287,7 +17287,7 @@ body.storelocator-index-index div#store-content div.store-box ul#list-store li i
 }
 body.storelocator-index-view div#store-content div.store-box ul#list-store input,
 body.storelocator-index-index div#store-content div.store-box ul#list-store input {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 11px;
 }
 @media only screen and (max-width: 1059px) {
@@ -17339,7 +17339,7 @@ body.storelocator-index-view div#wapstore div#mapwap span#description label,
 body.storelocator-index-index div#wapstore div#mapwap span#description label {
   background: #333;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   letter-spacing: 1px;
@@ -17430,13 +17430,13 @@ body.storelocator-index-index div#wapstore div#mapwap span#description h2.events
   border-radius: 5px;
   color: #ffffff;
   display: inline-block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   padding: 8px 8px 4px;
 }
 body.storelocator-index-view div#wapstore div#mapwap span#description h3,
 body.storelocator-index-index div#wapstore div#mapwap span#description h3 {
   color: #e56066;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 16px;
   margin: 15px 0;
   text-transform: capitalize;
@@ -17452,7 +17452,7 @@ body.storelocator-index-index div p.store-tag {
 .wap_description span#description label {
   background: #333;
   color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   letter-spacing: 1px;
@@ -17549,12 +17549,12 @@ body.storelocator-index-index div p.store-tag {
   border-radius: 5px;
   color: #ffffff;
   display: inline-block;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   padding: 8px 8px 4px;
 }
 .wap_description span#description h3 {
   color: #e56066;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 16px;
   margin: 15px 0;
   text-transform: capitalize;
@@ -17728,7 +17728,7 @@ p.store_name {
 }
 .tier1 > ul li.view-all a {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: bold;
   margin-bottom: 6px;
@@ -17745,7 +17745,7 @@ p.store_name {
 .tier1 li.level1 a {
   border: none;
   color: #5E4833;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   margin-bottom: 11px;
   text-align: left;
@@ -17848,20 +17848,20 @@ a.view-all {
 }
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productnamecontainer a {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 13px;
   text-transform: none;
 }
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productpricecontainer a {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
 }
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productbasepricecontainer a,
 #lcg_mybuys-wrapper .mb_productslotcontainer .mb_productsalepricecontainer a {
   color: #333;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
 }
@@ -18241,7 +18241,7 @@ a.view-all {
   display: inline-block;
 }
 #newsletter-modal .popup-text h2 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 25px;
   letter-spacing: 2px;
   color: #3c9991;
@@ -18261,7 +18261,7 @@ a.view-all {
   font-size: 20px;
   letter-spacing: 1px;
   line-height: 120%;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 #newsletter-modal .popup-offers {
   max-width: 100%;
@@ -18272,7 +18272,7 @@ a.view-all {
 #newsletter-modal .popup-offers p {
   font-size: 15px;
   color: #3c9991;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: 100;
 }
 #newsletter-modal .popup-image {
@@ -18481,7 +18481,7 @@ ul.checkout-types {
 }
 
 .slick-prev:before, .slick-next:before {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 20px;
   line-height: 1;
   color: white;
@@ -18596,7 +18596,7 @@ ul.checkout-types {
   content: "•";
   width: 20px;
   height: 20px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 6px;
   line-height: 20px;
   text-align: center;
@@ -18623,7 +18623,7 @@ ul.checkout-types {
   margin: 5px 0;
   padding: 3px 10px;
   color: #E6E6E6;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 .reward-message.reward-checkout {
   margin-bottom: 10px;
